@@ -1,0 +1,580 @@
+[
+  {
+    "id": "sm35-1",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Common",
+    "image": "https://images.pokemontcg.io/sm35/1_hires.png"
+  },
+  {
+    "id": "sm10-33",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Common",
+    "image": "https://images.pokemontcg.io/sm10/33_hires.png"
+  },
+  {
+    "id": "sm115-7",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Common",
+    "image": "https://images.pokemontcg.io/sm115/7_hires.png"
+  },
+  {
+    "id": "swsh45-35",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Common",
+    "image": "https://images.pokemontcg.io/swsh45/35_hires.png"
+  },
+  {
+    "id": "swsh9-120",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Common",
+    "image": "https://images.pokemontcg.io/swsh9/120_hires.png"
+  },
+  {
+    "id": "sm8-142",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Uncommon",
+    "image": "https://images.pokemontcg.io/sm8/142_hires.png"
+  },
+  {
+    "id": "pgo-24",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/pgo/24_hires.png"
+  },
+  {
+    "id": "pgo-29",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/pgo/29_hires.png"
+  },
+  {
+    "id": "pgo-12",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/pgo/12_hires.png"
+  },
+  {
+    "id": "swsh10-86",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/swsh10/86_hires.png"
+  },
+  {
+    "id": "swsh9-132",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/swsh9/132_hires.png"
+  },
+  {
+    "id": "pgo-43",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/pgo/43_hires.png"
+  },
+  {
+    "id": "swshp-SWSH039",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Rare Holo Galaxy",
+    "image": "https://images.pokemontcg.io/swshp/SWSH039_hires.png"
+  },
+  {
+    "id": "swsh45-60",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Rare Holo Galaxy",
+    "image": "https://images.pokemontcg.io/swsh45/60_hires.png"
+  },
+  {
+    "id": "swshp-SWSH127",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Rare Holo Galaxy",
+    "image": "https://images.pokemontcg.io/swshp/SWSH127_hires.png"
+  },
+  {
+    "id": "pgo-4",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Radiant Rare",
+    "image": "https://images.pokemontcg.io/pgo/4_hires.png"
+  },
+  {
+    "id": "swsh10-46",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Radiant Rare",
+    "image": "https://images.pokemontcg.io/swsh10/46_hires.png"
+  },
+  {
+    "id": "swsh10-27",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Radiant Rare",
+    "image": "https://images.pokemontcg.io/swsh10/27_hires.png"
+  },
+  {
+    "id": "swsh3-21",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh3/21_hires.png"
+  },
+  {
+    "id": "swsh1-141",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh1/141_hires.png"
+  },
+  {
+    "id": "swsh10-53",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh10/53_hires.png"
+  },
+  {
+    "id": "swsh8-250",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Fusion Strike"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh8/250_hires.png"
+  },
+  {
+    "id": "swsh3-183",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh3/183_hires.png"
+  },
+  {
+    "id": "swsh1-190",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh1/190_hires.png"
+  },
+  {
+    "id": "swsh7-29",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Holo VMAX",
+    "image": "https://images.pokemontcg.io/swsh7/29_hires.png"
+  },
+  {
+    "id": "swsh45sv-SV111",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Holo VMAX",
+    "image": "https://images.pokemontcg.io/swsh45sv/SV111_hires.png"
+  },
+  {
+    "id": "swsh9-29",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Holo VMAX",
+    "image": "https://images.pokemontcg.io/swsh9/29_hires.png"
+  },
+  {
+    "id": "swshp-SWSH179",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Single Strike"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swshp/SWSH179_hires.png"
+  },
+  {
+    "id": "swshp-SWSH181",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Rapid Strike"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swshp/SWSH181_hires.png"
+  },
+  {
+    "id": "swshp-SWSH183",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swshp/SWSH183_hires.png"
+  },
+  {
+    "id": "swshp-SWSH180",
+    "subtypes": [
+      "VMAX",
+      "Single Strike"
+    ],
+    "rarity": "Rare Rainbow Alt",
+    "image": "https://images.pokemontcg.io/swshp/SWSH180_hires.png"
+  },
+  {
+    "id": "swshp-SWSH182",
+    "subtypes": [
+      "VMAX",
+      "Rapid Strike"
+    ],
+    "rarity": "Rare Rainbow Alt",
+    "image": "https://images.pokemontcg.io/swshp/SWSH182_hires.png"
+  },
+  {
+    "id": "swshp-SWSH184",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Rainbow Alt",
+    "image": "https://images.pokemontcg.io/swshp/SWSH184_hires.png"
+  },
+  {
+    "id": "swsh10-177",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh10/177_hires.png"
+  },
+  {
+    "id": "swsh8-245",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh8/245_hires.png"
+  },
+  {
+    "id": "swsh7-192",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh7/192_hires.png"
+  },
+  {
+    "id": "swsh7-215",
+    "subtypes": [
+      "VMAX",
+      "Single Strike"
+    ],
+    "rarity": "Rare Rainbow Alt",
+    "image": "https://images.pokemontcg.io/swsh7/215_hires.png"
+  },
+  {
+    "id": "swsh8-270",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Rainbow Alt",
+    "image": "https://images.pokemontcg.io/swsh8/270_hires.png"
+  },
+  {
+    "id": "swsh7-212",
+    "subtypes": [
+      "VMAX",
+      "Rapid Strike"
+    ],
+    "rarity": "Rare Rainbow Alt",
+    "image": "https://images.pokemontcg.io/swsh7/212_hires.png"
+  },
+  {
+    "id": "swshp-SWSH195",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "rarity": "Rare Holo VSTAR",
+    "image": "https://images.pokemontcg.io/swshp/SWSH195_hires.png"
+  },
+  {
+    "id": "swsh9-18",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "rarity": "Rare Holo VSTAR",
+    "image": "https://images.pokemontcg.io/swsh9/18_hires.png"
+  },
+  {
+    "id": "swshp-SWSH197",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "rarity": "Rare Holo VSTAR",
+    "image": "https://images.pokemontcg.io/swshp/SWSH197_hires.png"
+  },
+  {
+    "id": "swsh6-196",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh6/196_hires.png"
+  },
+  {
+    "id": "swsh9-167",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh9/167_hires.png"
+  },
+  {
+    "id": "swsh4-183",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh4/183_hires.png"
+  },
+  {
+    "id": "swsh4-185",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh4/185_hires.png"
+  },
+  {
+    "id": "swsh2-189",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh2/189_hires.png"
+  },
+  {
+    "id": "swsh6-192",
+    "subtypes": [
+      "Supporter"
+    ],
+    "rarity": "Rare Ultra",
+    "image": "https://images.pokemontcg.io/swsh6/192_hires.png"
+  },
+  {
+    "id": "swsh3-193",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Rainbow",
+    "image": "https://images.pokemontcg.io/swsh3/193_hires.png"
+  },
+  {
+    "id": "swsh9-173",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "rarity": "Rare Rainbow",
+    "image": "https://images.pokemontcg.io/swsh9/173_hires.png"
+  },
+  {
+    "id": "swsh3-190",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Rainbow",
+    "image": "https://images.pokemontcg.io/swsh3/190_hires.png"
+  },
+  {
+    "id": "swsh10-213",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh10/213_hires.png"
+  },
+  {
+    "id": "swsh10-214",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh10/214_hires.png"
+  },
+  {
+    "id": "swsh7-232",
+    "subtypes": [
+      "Stadium"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh7/232_hires.png"
+  },
+  {
+    "id": "swsh5-181",
+    "subtypes": [
+      "Item"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh5/181_hires.png"
+  },
+  {
+    "id": "swsh7-229",
+    "subtypes": [
+      "Item"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh7/229_hires.png"
+  },
+  {
+    "id": "swsh1-213",
+    "subtypes": [
+      "Pokémon Tool"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh1/213_hires.png"
+  },
+  {
+    "id": "swsh8-280",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh8/280_hires.png"
+  },
+  {
+    "id": "swsh9-184",
+    "subtypes": [
+      "VSTAR"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh9/184_hires.png"
+  },
+  {
+    "id": "swsh7-227",
+    "subtypes": [
+      "Stage 2",
+      "Rapid Strike"
+    ],
+    "rarity": "Rare Secret",
+    "image": "https://images.pokemontcg.io/swsh7/227_hires.png"
+  },
+  {
+    "id": "sm12-241",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/sm12/241_hires.png"
+  },
+  {
+    "id": "swsh9tg-TG11",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/swsh9tg/TG11_hires.png"
+  },
+  {
+    "id": "swsh9tg-TG07",
+    "subtypes": [
+      "Basic"
+    ],
+    "rarity": "Rare Holo",
+    "image": "https://images.pokemontcg.io/swsh9tg/TG07_hires.png"
+  },
+  {
+    "id": "swsh9tg-TG16",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh9tg/TG16_hires.png"
+  },
+  {
+    "id": "swsh9tg-TG18",
+    "subtypes": [
+      "Basic",
+      "V",
+      "Single Strike"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh9tg/TG18_hires.png"
+  },
+  {
+    "id": "swsh10tg-TG17",
+    "subtypes": [
+      "Basic",
+      "V"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh10tg/TG17_hires.png"
+  },
+  {
+    "id": "swsh9tg-TG17",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh9tg/TG17_hires.png"
+  },
+  {
+    "id": "swsh9tg-TG19",
+    "subtypes": [
+      "VMAX",
+      "Single Strike"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh9tg/TG19_hires.png"
+  },
+  {
+    "id": "swsh10tg-TG18",
+    "subtypes": [
+      "VMAX"
+    ],
+    "rarity": "Rare Holo V",
+    "image": "https://images.pokemontcg.io/swsh10tg/TG18_hires.png"
+  }
+]
