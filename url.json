@@ -1,0 +1,10 @@
+[
+    {
+        "id": "pokemon-tcg",
+        "url": "https://raw.githubusercontent.com/xue160709/Sparkly/main/data.json"
+    },
+    {
+        "id": "mao",
+        "url": "https://raw.githubusercontent.com/xue160709/Sparkly/main/mao.json"
+    }
+]
