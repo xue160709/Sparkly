@@ -30,6 +30,13 @@
         "ja": "調査なくして発言権なし",
         "en": "No investigation, no right to speak"
       },
+      "details": {
+        "cn": "在做任何决策或发表意见之前，必须先深入了解实际情况。这是务实的认知方法论，提醒我们不要凭空想象或主观臆断，而要基于事实和调查来形成观点。只有掌握了真实信息，才有资格参与讨论，否则只是空谈。",
+        "tw": "在做任何決策或發表意見之前，必須先深入了解實際情況。這是務實的認知方法論，提醒我們不要憑空想像或主觀臆斷，而要基於事實和調查來形成觀點。只有掌握了真實信息，才有資格參與討論，否則只是空談。",
+        "ko": "어떤 결정을 내리거나 의견을 표명하기 전에 반드시 실제 상황을 깊이 이해해야 합니다. 이것은 실용적인 인식 방법론으로, 상상이나 주관적 추측이 아닌 사실과 조사를 바탕으로 관점을 형성해야 함을 상기시킵니다. 진정한 정보를 파악해야만 토론에 참여할 자격이 있습니다.",
+        "ja": "決定を下したり意見を述べる前に、まず実際の状況を深く理解しなければなりません。これは実践的な認識方法論であり、空想や主観的な憶測ではなく、事実と調査に基づいて見解を形成すべきことを思い起こさせます。真の情報を把握してこそ、議論に参加する資格があるのです。",
+        "en": "Before making any decision or expressing opinions, one must first deeply understand the actual situation. This practical epistemology reminds us not to rely on imagination or subjective assumptions, but to form views based on facts and investigation. Only by grasping real information do we qualify to participate in discussions."
+      },
       "id": "mao-1"
     },
     {
@@ -46,6 +53,13 @@
         "ko": "방법이 없을 때는 조사 연구를 하면 방법이 나온다",
         "ja": "方法がない時は調査研究を行えば、方法が見つかる",
         "en": "When there's no way, investigate and research, and a solution will emerge"
+      },
+      "details": {
+        "cn": "遇到困难和问题时，不要轻易放弃或盲目猜测。通过深入调查和研究，往往能够发现问题的根源和解决的方法。调研是打破僵局的有效途径，实践中的智慧远比书本上的理论更能指导行动，深入一线才能找到真正可行的方案。",
+        "tw": "遇到困難和問題時，不要輕易放棄或盲目猜測。通過深入調查和研究，往往能夠發現問題的根源和解決的方法。調研是打破僵局的有效途徑，實踐中的智慧遠比書本上的理論更能指導行動，深入一線才能找到真正可行的方案。",
+        "ko": "어려움과 문제에 직면했을 때 쉽게 포기하거나 맹목적으로 추측하지 마십시오. 심층 조사와 연구를 통해 문제의 근원과 해결 방법을 발견할 수 있습니다. 조사 연구는 교착 상태를 타파하는 효과적인 방법이며, 현장의 지혜가 이론보다 더 실질적인 해결책을 제시합니다.",
+        "ja": "困難や問題に直面した時、簡単に諦めたり盲目的に推測してはいけません。深い調査と研究を通じて、問題の根源と解決策を発見できることが多いです。調査研究は行き詰まりを打破する効果的な方法であり、現場の知恵は理論よりも実行可能な解決策を示してくれます。",
+        "en": "When facing difficulties, don't give up easily or guess blindly. Through in-depth investigation and research, one can often discover the root causes and solutions to problems. Research is an effective way to break deadlocks - practical wisdom guides action better than book theories, and going to the frontline helps find truly workable solutions."
       },
       "id": "mao-2"
     },
@@ -64,6 +78,13 @@
         "ja": "すべての結論は調査状況の末尾から生まれ、最初ではない",
         "en": "All conclusions come at the end of investigation, not at the beginning"
       },
+      "details": {
+        "cn": "不要先入为主或带着预设的结论去调查。正确的做法是保持开放的心态，客观收集信息，在全面了解情况后再得出结论。先有结论再找证据，只会导致偏见和错误判断。真正的智慧来自于对事实的尊重，而非对观点的执着。",
+        "tw": "不要先入為主或帶著預設的結論去調查。正確的做法是保持開放的心態，客觀收集信息，在全面了解情況後再得出結論。先有結論再找證據，只會導致偏見和錯誤判斷。真正的智慧來自於對事實的尊重，而非對觀點的執著。",
+        "ko": "선입견을 가지거나 미리 결론을 내리고 조사하지 마십시오. 올바른 방법은 열린 마음을 유지하고 객관적으로 정보를 수집하여 상황을 완전히 이해한 후에 결론을 내리는 것입니다. 먼저 결론을 내리고 증거를 찾으면 편견과 잘못된 판단만 초래합니다. 진정한 지혜는 사실에 대한 존중에서 비롯됩니다.",
+        "ja": "先入観を持ったり、予め結論を決めて調査してはいけません。正しい方法は、開かれた心を保ち、客観的に情報を収集し、状況を完全に理解してから結論を出すことです。先に結論を出してから証拠を探すと、偏見と誤った判断につながります。真の知恵は事実への尊重から生まれます。",
+        "en": "Don't investigate with preconceptions or predetermined conclusions. The right approach is to maintain an open mind, objectively collect information, and draw conclusions only after fully understanding the situation. Having conclusions before finding evidence leads only to bias and misjudgment. True wisdom comes from respecting facts, not clinging to opinions."
+      },
       "id": "mao-3"
     },
     {
@@ -81,6 +102,13 @@
         "ja": "下を見る決心と小学生になる精神がなければ、うまくいかない",
         "en": "Without the determination to look down and the spirit of being a student, nothing can be done well"
       },
+      "details": {
+        "cn": "保持谦逊的态度，愿意向基层、向实践、向他人学习。不要自以为是，要放下身段，像小学生一样虚心求教，才能真正学到东西、做好事情。傲慢会蒙蔽双眼，谦虚才能看到真相。越是有成就，越需要保持初学者的心态。",
+        "tw": "保持謙遜的態度，願意向基層、向實踐、向他人學習。不要自以為是，要放下身段，像小學生一樣虛心求教，才能真正學到東西、做好事情。傲慢會蒙蔽雙眼，謙虛才能看到真相。越是有成就，越需要保持初學者的心態。",
+        "ko": "겸손한 태도를 유지하고 현장, 실천, 타인에게서 배우려는 의지를 가져야 합니다. 자만하지 말고 체면을 내려놓고 초등학생처럼 겸허하게 가르침을 구해야 진정으로 배우고 일을 잘 할 수 있습니다. 오만함은 눈을 가리고, 겸손함만이 진실을 볼 수 있게 합니다.",
+        "ja": "謙虚な態度を保ち、現場や実践、他者から学ぶ意志を持つべきです。自惚れず、身を低くして、小学生のように謙虚に教えを請うことで、初めて真に学び、物事をうまく進められます。傲慢は目を曇らせ、謙虚さだけが真実を見せてくれます。",
+        "en": "Maintain a humble attitude and be willing to learn from the grassroots, from practice, and from others. Don't be arrogant - lower yourself and humbly seek guidance like a student to truly learn and do things well. Arrogance blinds us, while only humility allows us to see the truth. The more accomplished, the more one needs a beginner's mindset."
+      },
       "id": "mao-4"
     },
     {
@@ -97,6 +125,13 @@
         "ko": "대중이 진정한 영웅이며, 우리 자신은 종종 유치하고 우스꽝스럽다",
         "ja": "大衆こそ真の英雄であり、我々自身は往々にして幼稚で滑稽である",
         "en": "The masses are the true heroes, while we ourselves are often childish and ridiculous"
+      },
+      "details": {
+        "cn": "普通大众拥有丰富的实践经验和智慧，应当尊重和学习他们的智慧。不要自视过高，要认识到自己的局限性，保持谦虚和学习的心态。集体的智慧往往超越个人，真正的领导者善于倾听和汲取众人的意见，而非闭门造车。",
+        "tw": "普通大眾擁有豐富的實踐經驗和智慧，應當尊重和學習他們的智慧。不要自視過高，要認識到自己的局限性，保持謙虛和學習的心態。集體的智慧往往超越個人，真正的領導者善於傾聽和汲取眾人的意見，而非閉門造車。",
+        "ko": "일반 대중은 풍부한 실천 경험과 지혜를 가지고 있으며, 그들의 지혜를 존중하고 배워야 합니다. 자신을 너무 높이 평가하지 말고 자신의 한계를 인식하며 겸손하고 배우는 자세를 유지하세요. 집단의 지혜는 개인을 초월하며, 진정한 리더는 사람들의 의견을 경청하고 수용합니다.",
+        "ja": "一般の人々は豊富な実践経験と知恵を持っており、その知恵を尊重し学ぶべきです。自分を過大評価せず、自分の限界を認識し、謙虚で学ぶ姿勢を保ちましょう。集団の知恵は個人を超えることが多く、真のリーダーは人々の意見に耳を傾け、取り入れることに長けています。",
+        "en": "Ordinary people possess rich practical experience and wisdom that deserves respect and learning. Don't overestimate yourself - recognize your limitations and maintain a humble, learning attitude. Collective wisdom often surpasses individual insight. True leaders excel at listening to and absorbing opinions from everyone, rather than working in isolation."
       },
       "id": "mao-5"
     },
