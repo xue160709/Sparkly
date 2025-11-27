@@ -1,410 +1,227 @@
 [
-    {
-      "title": "先调查",
-      "subtitle": "没有调查，没有发言权",
-      "id": "mao-1",
-      "subtypes": [
-        "Basic",
-        "V"
-      ],
-      "rarity": "Rare Ultra"
-    },
-    {
-      "title": "调查解难",
-      "subtitle": "凡是没有办法时，就去调查研究，办法就出来了",
-      "id": "mao-2",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Rare Holo Galaxy"
-    },
-    {
-      "title": "结论在后",
-      "subtitle": "一切结论产生于调查情况的末尾，而不是先头",
-      "id": "mao-3",
-      "subtypes": [
-        "Supporter"
-      ],
-      "rarity": "Rare Ultra"
-    },
-    {
-      "title": "放下架子",
-      "subtitle": "没有眼睛向下的决心和甘当小学生的精神，是做不好的",
-      "id": "mao-4",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Rare Holo"
-    },
-    {
-      "title": "群众为师",
-      "subtitle": "群众是真正的英雄，而我们自己往往是幼稚可笑的",
-      "id": "mao-5",
-      "subtypes": [
-        "Item"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "抓主矛盾",
-      "subtitle": "丢掉主要矛盾去研究细枝末节，仍是无发言权的",
-      "id": "mao-6",
-      "subtypes": [
-        "Stage 1"
-      ],
-      "rarity": "Rare Holo"
-    },
-    {
-      "title": "不自满",
-      "subtitle": "学习的敌人是自己的满足，必须从不自满开始",
-      "id": "mao-7",
-      "subtypes": [
-        "Stage 2"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "学而不厌",
-      "subtitle": "对自己学而不厌，对人家诲人不倦",
-      "id": "mao-8",
-      "subtypes": [
-        "VMAX"
-      ],
-      "rarity": "Rare Rainbow"
-    },
-    {
-      "title": "日日读书",
-      "subtitle": "饭可以一日不吃，书不可以一日不读",
-      "id": "mao-9",
-      "subtypes": [
-        "VSTAR"
-      ],
-      "rarity": "Rare Holo VSTAR"
-    },
-    {
-      "title": "挤和钻",
-      "subtitle": "工作忙就要挤，看不懂就要钻，学习定能获胜",
-      "id": "mao-10",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Common"
-    },
-    {
-      "title": "学以致用",
-      "subtitle": "学习的目的全在于运用，使用是更重要的学习",
-      "id": "mao-11",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Radiant Rare"
-    },
-    {
-      "title": "向外求学",
-      "subtitle": "闭门求学其学无用，欲从天下万事万物而学之",
-      "id": "mao-12",
-      "subtypes": [
-        "VMAX"
-      ],
-      "rarity": "Rare Holo VMAX"
-    },
-    {
-      "title": "不装懂",
-      "subtitle": "不懂就是不懂，不要装懂",
-      "id": "mao-13",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Uncommon"
-    },
-    {
-      "title": "动笔读书",
-      "subtitle": "不动笔墨不读书",
-      "id": "mao-14",
-      "subtypes": [
-        "Stadium"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "循环认识",
-      "subtitle": "实践、认识、再实践、再认识，循环往复以至无穷",
-      "id": "mao-15",
-      "subtypes": [
-        "Pokémon Tool"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "实践为源",
-      "subtitle": "实践是认识的源泉、动力和目的",
-      "id": "mao-16",
-      "subtypes": [
-        "Basic",
-        "V"
-      ],
-      "rarity": "Rare Ultra"
-    },
-    {
-      "title": "具体分析",
-      "subtitle": "具体问题具体分析",
-      "id": "mao-17",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Rare Holo Galaxy"
-    },
-    {
-      "title": "主次分明",
-      "subtitle": "分清主要矛盾和次要矛盾，捉住主要矛盾迎刃而解",
-      "id": "mao-18",
-      "subtypes": [
-        "Supporter"
-      ],
-      "rarity": "Rare Ultra"
-    },
-    {
-      "title": "见林见树",
-      "subtitle": "不能只看见树木不看见森林，避免片面性思维",
-      "id": "mao-19",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Rare Holo"
-    },
-    {
-      "title": "知己知彼",
-      "subtitle": "知己知彼，百战不殆",
-      "id": "mao-20",
-      "subtypes": [
-        "Item"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "兼听则明",
-      "subtitle": "兼听则明，偏听则暗",
-      "id": "mao-21",
-      "subtypes": [
-        "Stage 1"
-      ],
-      "rarity": "Rare Holo"
-    },
-    {
-      "title": "两点重点",
-      "subtitle": "坚持两点论和重点论的统一",
-      "id": "mao-22",
-      "subtypes": [
-        "Stage 2"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "弹钢琴",
-      "subtitle": "学会统筹兼顾，不能只顾一头",
-      "id": "mao-23",
-      "subtypes": [
-        "VMAX"
-      ],
-      "rarity": "Rare Rainbow"
-    },
-    {
-      "title": "藐视重视",
-      "subtitle": "战略上藐视它，战术上重视它",
-      "id": "mao-24",
-      "subtypes": [
-        "VSTAR"
-      ],
-      "rarity": "Rare Holo VSTAR"
-    },
-    {
-      "title": "常打扫",
-      "subtitle": "房子应经常打扫，思想和工作也应打扫和洗涤",
-      "id": "mao-25",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Common"
-    },
-    {
-      "title": "知无不言",
-      "subtitle": "知无不言，言无不尽，言者无罪，闻者足戒",
-      "id": "mao-26",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Radiant Rare"
-    },
-    {
-      "title": "有则改之",
-      "subtitle": "有则改之，无则加勉",
-      "id": "mao-27",
-      "subtypes": [
-        "VMAX"
-      ],
-      "rarity": "Rare Holo VMAX"
-    },
-    {
-      "title": "批评团结",
-      "subtitle": "从团结出发，经过批评，达到新的团结",
-      "id": "mao-28",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Uncommon"
-    },
-    {
-      "title": "实事求是",
-      "subtitle": "一切从实际出发，理论联系实际",
-      "id": "mao-29",
-      "subtypes": [
-        "Stadium"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "反本本",
-      "subtitle": "反对本本主义，离开实际就堕入空想和盲动",
-      "id": "mao-30",
-      "subtypes": [
-        "Pokémon Tool"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "去三性",
-      "subtitle": "研究问题忌带主观性、片面性和表面性",
-      "id": "mao-31",
-      "subtypes": [
-        "Basic",
-        "V"
-      ],
-      "rarity": "Rare Ultra"
-    },
-    {
-      "title": "有点精神",
-      "subtitle": "人是要有一点精神的",
-      "id": "mao-32",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Rare Holo Galaxy"
-    },
-    {
-      "title": "高尚纯粹",
-      "subtitle": "有这点精神就是高尚的人、纯粹的人、有益于人民的人",
-      "id": "mao-33",
-      "subtypes": [
-        "Supporter"
-      ],
-      "rarity": "Rare Ultra"
-    },
-    {
-      "title": "重于泰山",
-      "subtitle": "人固有一死，或重于泰山，或轻于鸿毛",
-      "id": "mao-34",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Rare Holo"
-    },
-    {
-      "title": "排除万难",
-      "subtitle": "下定决心，不怕牺牲，排除万难，去争取胜利",
-      "id": "mao-35",
-      "subtypes": [
-        "Item"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "前途光明",
-      "subtitle": "道路总是曲折的，前途总是光明的",
-      "id": "mao-36",
-      "subtypes": [
-        "Stage 1"
-      ],
-      "rarity": "Rare Holo"
-    },
-    {
-      "title": "星火燎原",
-      "subtitle": "星星之火，可以燎原",
-      "id": "mao-37",
-      "subtypes": [
-        "Stage 2"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "迅速改错",
-      "subtitle": "任何人都会犯错误，改正得越迅速越彻底越好",
-      "id": "mao-38",
-      "subtypes": [
-        "VMAX"
-      ],
-      "rarity": "Rare Rainbow"
-    },
-    {
-      "title": "本领恐慌",
-      "subtitle": "我们队伍里有一种恐慌，是本领恐慌",
-      "id": "mao-39",
-      "subtypes": [
-        "VSTAR"
-      ],
-      "rarity": "Rare Holo VSTAR"
-    },
-    {
-      "title": "学新本领",
-      "subtitle": "我们熟习的东西快要闲起来，不熟习的正强迫我们去做",
-      "id": "mao-40",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Common"
-    },
-    {
-      "title": "处理矛盾",
-      "subtitle": "世界由矛盾组成，我们的任务是正确处理这些矛盾",
-      "id": "mao-41",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Radiant Rare"
-    },
-    {
-      "title": "通古今",
-      "subtitle": "一人不通古今，马牛而襟裾",
-      "id": "mao-42",
-      "subtypes": [
-        "VMAX"
-      ],
-      "rarity": "Rare Holo VMAX"
-    },
-    {
-      "title": "以古为鉴",
-      "subtitle": "以铜为鉴正衣冠，以古为鉴知兴替，以人为鉴明得失",
-      "id": "mao-43",
-      "subtypes": [
-        "Basic"
-      ],
-      "rarity": "Uncommon"
-    },
-    {
-      "title": "古为今用",
-      "subtitle": "古为今用，洋为中用",
-      "id": "mao-44",
-      "subtypes": [
-        "Stadium"
-      ],
-      "rarity": "Rare Secret"
-    },
-    {
-      "title": "批判地学",
-      "subtitle": "一切长处都要学，但必须有分析有批判地学，不能机械搬用",
-      "id": "mao-45",
-      "subtypes": [
-        "Pokémon Tool"
-      ],
-      "rarity": "Rare Secret"
-    }
-  ]
+  {
+    "title": "先调查",
+    "subtitle": "没有调查，没有发言权",
+    "id": "mao-1"
+  },
+  {
+    "title": "调查解难",
+    "subtitle": "凡是没有办法时，就去调查研究，办法就出来了",
+    "id": "mao-2"
+  },
+  {
+    "title": "结论在后",
+    "subtitle": "一切结论产生于调查情况的末尾，而不是先头",
+    "id": "mao-3"
+  },
+  {
+    "title": "放下架子",
+    "subtitle": "没有眼睛向下的决心和甘当小学生的精神，是做不好的",
+    "id": "mao-4"
+  },
+  {
+    "title": "群众为师",
+    "subtitle": "群众是真正的英雄，而我们自己往往是幼稚可笑的",
+    "id": "mao-5"
+  },
+  {
+    "title": "抓主矛盾",
+    "subtitle": "丢掉主要矛盾去研究细枝末节，仍是无发言权的",
+    "id": "mao-6"
+  },
+  {
+    "title": "不自满",
+    "subtitle": "学习的敌人是自己的满足，必须从不自满开始",
+    "id": "mao-7"
+  },
+  {
+    "title": "学而不厌",
+    "subtitle": "对自己学而不厌，对人家诲人不倦",
+    "id": "mao-8"
+  },
+  {
+    "title": "日日读书",
+    "subtitle": "饭可以一日不吃，书不可以一日不读",
+    "id": "mao-9"
+  },
+  {
+    "title": "挤和钻",
+    "subtitle": "工作忙就要挤，看不懂就要钻，学习定能获胜",
+    "id": "mao-10"
+  },
+  {
+    "title": "学以致用",
+    "subtitle": "学习的目的全在于运用，使用是更重要的学习",
+    "id": "mao-11"
+  },
+  {
+    "title": "向外求学",
+    "subtitle": "闭门求学其学无用，欲从天下万事万物而学之",
+    "id": "mao-12"
+  },
+  {
+    "title": "不装懂",
+    "subtitle": "不懂就是不懂，不要装懂",
+    "id": "mao-13"
+  },
+  {
+    "title": "动笔读书",
+    "subtitle": "不动笔墨不读书",
+    "id": "mao-14"
+  },
+  {
+    "title": "循环认识",
+    "subtitle": "实践、认识、再实践、再认识，循环往复以至无穷",
+    "id": "mao-15"
+  },
+  {
+    "title": "实践为源",
+    "subtitle": "实践是认识的源泉、动力和目的",
+    "id": "mao-16"
+  },
+  {
+    "title": "具体分析",
+    "subtitle": "具体问题具体分析",
+    "id": "mao-17"
+  },
+  {
+    "title": "主次分明",
+    "subtitle": "分清主要矛盾和次要矛盾，捉住主要矛盾迎刃而解",
+    "id": "mao-18"
+  },
+  {
+    "title": "见林见树",
+    "subtitle": "不能只看见树木不看见森林，避免片面性思维",
+    "id": "mao-19"
+  },
+  {
+    "title": "知己知彼",
+    "subtitle": "知己知彼，百战不殆",
+    "id": "mao-20"
+  },
+  {
+    "title": "兼听则明",
+    "subtitle": "兼听则明，偏听则暗",
+    "id": "mao-21"
+  },
+  {
+    "title": "两点重点",
+    "subtitle": "坚持两点论和重点论的统一",
+    "id": "mao-22"
+  },
+  {
+    "title": "弹钢琴",
+    "subtitle": "学会统筹兼顾，不能只顾一头",
+    "id": "mao-23"
+  },
+  {
+    "title": "藐视重视",
+    "subtitle": "战略上藐视它，战术上重视它",
+    "id": "mao-24"
+  },
+  {
+    "title": "常打扫",
+    "subtitle": "房子应经常打扫，思想和工作也应打扫和洗涤",
+    "id": "mao-25"
+  },
+  {
+    "title": "知无不言",
+    "subtitle": "知无不言，言无不尽，言者无罪，闻者足戒",
+    "id": "mao-26"
+  },
+  {
+    "title": "有则改之",
+    "subtitle": "有则改之，无则加勉",
+    "id": "mao-27"
+  },
+  {
+    "title": "批评团结",
+    "subtitle": "从团结出发，经过批评，达到新的团结",
+    "id": "mao-28"
+  },
+  {
+    "title": "实事求是",
+    "subtitle": "一切从实际出发，理论联系实际",
+    "id": "mao-29"
+  },
+  {
+    "title": "反本本",
+    "subtitle": "反对本本主义，离开实际就堕入空想和盲动",
+    "id": "mao-30"
+  },
+  {
+    "title": "去三性",
+    "subtitle": "研究问题忌带主观性、片面性和表面性",
+    "id": "mao-31"
+  },
+  {
+    "title": "有点精神",
+    "subtitle": "人是要有一点精神的",
+    "id": "mao-32"
+  },
+  {
+    "title": "高尚纯粹",
+    "subtitle": "有这点精神就是高尚的人、纯粹的人、有益于人民的人",
+    "id": "mao-33"
+  },
+  {
+    "title": "重于泰山",
+    "subtitle": "人固有一死，或重于泰山，或轻于鸿毛",
+    "id": "mao-34"
+  },
+  {
+    "title": "排除万难",
+    "subtitle": "下定决心，不怕牺牲，排除万难，去争取胜利",
+    "id": "mao-35"
+  },
+  {
+    "title": "前途光明",
+    "subtitle": "道路总是曲折的，前途总是光明的",
+    "id": "mao-36"
+  },
+  {
+    "title": "星火燎原",
+    "subtitle": "星星之火，可以燎原",
+    "id": "mao-37"
+  },
+  {
+    "title": "迅速改错",
+    "subtitle": "任何人都会犯错误，改正得越迅速越彻底越好",
+    "id": "mao-38"
+  },
+  {
+    "title": "本领恐慌",
+    "subtitle": "我们队伍里有一种恐慌，是本领恐慌",
+    "id": "mao-39"
+  },
+  {
+    "title": "学新本领",
+    "subtitle": "我们熟习的东西快要闲起来，不熟习的正强迫我们去做",
+    "id": "mao-40"
+  },
+  {
+    "title": "处理矛盾",
+    "subtitle": "世界由矛盾组成，我们的任务是正确处理这些矛盾",
+    "id": "mao-41"
+  },
+  {
+    "title": "通古今",
+    "subtitle": "一人不通古今，马牛而襟裾",
+    "id": "mao-42"
+  },
+  {
+    "title": "以古为鉴",
+    "subtitle": "以铜为鉴正衣冠，以古为鉴知兴替，以人为鉴明得失",
+    "id": "mao-43"
+  },
+  {
+    "title": "古为今用",
+    "subtitle": "古为今用，洋为中用",
+    "id": "mao-44"
+  },
+  {
+    "title": "批判地学",
+    "subtitle": "一切长处都要学，但必须有分析有批判地学，不能机械搬用",
+    "id": "mao-45"
+  }
+]

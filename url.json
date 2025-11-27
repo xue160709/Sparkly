@@ -1,12 +1,5 @@
 [
     {
-        "id": "pokemon-tcg",
-        "name-zh": "宝可梦TCG",
-        "name-en": "Pokémon TCG",
-        "url": "https://raw.githubusercontent.com/xue160709/Sparkly/main/data.json",
-        "image": "https://raw.githubusercontent.com/xue160709/Sparkly/main/image/pokemon.png"
-    },
-    {
         "id": "mao",
         "name-zh": "毛泽东语录",
         "name-en": "Mao Zedong Quotes",
