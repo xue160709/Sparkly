@@ -1,227 +1,784 @@
-[
-  {
-    "title": "先调查",
-    "subtitle": "没有调查，没有发言权",
-    "id": "mao-1"
+{
+  "name": {
+    "cn": "毛泽东思想选集",
+    "tw": "毛澤東思想選集",
+    "ko": "마오쩌둥 사상 선집",
+    "ja": "毛沢東思想選集",
+    "en": "Selected Works of Mao Zedong Thought"
   },
-  {
-    "title": "调查解难",
-    "subtitle": "凡是没有办法时，就去调查研究，办法就出来了",
-    "id": "mao-2"
+  "description": {
+    "cn": "毛泽东思想选集是毛泽东同志的著作集，是毛泽东同志的智慧结晶，是毛泽东同志的宝贵财富",
+    "tw": "毛澤東思想選集是毛澤東同志的著作集，是毛澤東同志的智慧結晶，是毛澤東同志的寶貴財富",
+    "ko": "마오쩌둥 사상 선집은 마오쩌둥 동지의 저작집으로, 마오쩌둥 동지의 지혜의 결정체이며, 마오쩌둥 동지의 소중한 자산입니다",
+    "ja": "毛沢東思想選集は毛沢東同志の著作集であり、毛沢東同志の知恵の結晶であり、毛沢東同志の貴重な財産です",
+    "en": "Selected Works of Mao Zedong Thought is a collection of Comrade Mao Zedong's works, the crystallization of his wisdom, and a valuable asset"
   },
-  {
-    "title": "结论在后",
-    "subtitle": "一切结论产生于调查情况的末尾，而不是先头",
-    "id": "mao-3"
-  },
-  {
-    "title": "放下架子",
-    "subtitle": "没有眼睛向下的决心和甘当小学生的精神，是做不好的",
-    "id": "mao-4"
-  },
-  {
-    "title": "群众为师",
-    "subtitle": "群众是真正的英雄，而我们自己往往是幼稚可笑的",
-    "id": "mao-5"
-  },
-  {
-    "title": "抓主矛盾",
-    "subtitle": "丢掉主要矛盾去研究细枝末节，仍是无发言权的",
-    "id": "mao-6"
-  },
-  {
-    "title": "不自满",
-    "subtitle": "学习的敌人是自己的满足，必须从不自满开始",
-    "id": "mao-7"
-  },
-  {
-    "title": "学而不厌",
-    "subtitle": "对自己学而不厌，对人家诲人不倦",
-    "id": "mao-8"
-  },
-  {
-    "title": "日日读书",
-    "subtitle": "饭可以一日不吃，书不可以一日不读",
-    "id": "mao-9"
-  },
-  {
-    "title": "挤和钻",
-    "subtitle": "工作忙就要挤，看不懂就要钻，学习定能获胜",
-    "id": "mao-10"
-  },
-  {
-    "title": "学以致用",
-    "subtitle": "学习的目的全在于运用，使用是更重要的学习",
-    "id": "mao-11"
-  },
-  {
-    "title": "向外求学",
-    "subtitle": "闭门求学其学无用，欲从天下万事万物而学之",
-    "id": "mao-12"
-  },
-  {
-    "title": "不装懂",
-    "subtitle": "不懂就是不懂，不要装懂",
-    "id": "mao-13"
-  },
-  {
-    "title": "动笔读书",
-    "subtitle": "不动笔墨不读书",
-    "id": "mao-14"
-  },
-  {
-    "title": "循环认识",
-    "subtitle": "实践、认识、再实践、再认识，循环往复以至无穷",
-    "id": "mao-15"
-  },
-  {
-    "title": "实践为源",
-    "subtitle": "实践是认识的源泉、动力和目的",
-    "id": "mao-16"
-  },
-  {
-    "title": "具体分析",
-    "subtitle": "具体问题具体分析",
-    "id": "mao-17"
-  },
-  {
-    "title": "主次分明",
-    "subtitle": "分清主要矛盾和次要矛盾，捉住主要矛盾迎刃而解",
-    "id": "mao-18"
-  },
-  {
-    "title": "见林见树",
-    "subtitle": "不能只看见树木不看见森林，避免片面性思维",
-    "id": "mao-19"
-  },
-  {
-    "title": "知己知彼",
-    "subtitle": "知己知彼，百战不殆",
-    "id": "mao-20"
-  },
-  {
-    "title": "兼听则明",
-    "subtitle": "兼听则明，偏听则暗",
-    "id": "mao-21"
-  },
-  {
-    "title": "两点重点",
-    "subtitle": "坚持两点论和重点论的统一",
-    "id": "mao-22"
-  },
-  {
-    "title": "弹钢琴",
-    "subtitle": "学会统筹兼顾，不能只顾一头",
-    "id": "mao-23"
-  },
-  {
-    "title": "藐视重视",
-    "subtitle": "战略上藐视它，战术上重视它",
-    "id": "mao-24"
-  },
-  {
-    "title": "常打扫",
-    "subtitle": "房子应经常打扫，思想和工作也应打扫和洗涤",
-    "id": "mao-25"
-  },
-  {
-    "title": "知无不言",
-    "subtitle": "知无不言，言无不尽，言者无罪，闻者足戒",
-    "id": "mao-26"
-  },
-  {
-    "title": "有则改之",
-    "subtitle": "有则改之，无则加勉",
-    "id": "mao-27"
-  },
-  {
-    "title": "批评团结",
-    "subtitle": "从团结出发，经过批评，达到新的团结",
-    "id": "mao-28"
-  },
-  {
-    "title": "实事求是",
-    "subtitle": "一切从实际出发，理论联系实际",
-    "id": "mao-29"
-  },
-  {
-    "title": "反本本",
-    "subtitle": "反对本本主义，离开实际就堕入空想和盲动",
-    "id": "mao-30"
-  },
-  {
-    "title": "去三性",
-    "subtitle": "研究问题忌带主观性、片面性和表面性",
-    "id": "mao-31"
-  },
-  {
-    "title": "有点精神",
-    "subtitle": "人是要有一点精神的",
-    "id": "mao-32"
-  },
-  {
-    "title": "高尚纯粹",
-    "subtitle": "有这点精神就是高尚的人、纯粹的人、有益于人民的人",
-    "id": "mao-33"
-  },
-  {
-    "title": "重于泰山",
-    "subtitle": "人固有一死，或重于泰山，或轻于鸿毛",
-    "id": "mao-34"
-  },
-  {
-    "title": "排除万难",
-    "subtitle": "下定决心，不怕牺牲，排除万难，去争取胜利",
-    "id": "mao-35"
-  },
-  {
-    "title": "前途光明",
-    "subtitle": "道路总是曲折的，前途总是光明的",
-    "id": "mao-36"
-  },
-  {
-    "title": "星火燎原",
-    "subtitle": "星星之火，可以燎原",
-    "id": "mao-37"
-  },
-  {
-    "title": "迅速改错",
-    "subtitle": "任何人都会犯错误，改正得越迅速越彻底越好",
-    "id": "mao-38"
-  },
-  {
-    "title": "本领恐慌",
-    "subtitle": "我们队伍里有一种恐慌，是本领恐慌",
-    "id": "mao-39"
-  },
-  {
-    "title": "学新本领",
-    "subtitle": "我们熟习的东西快要闲起来，不熟习的正强迫我们去做",
-    "id": "mao-40"
-  },
-  {
-    "title": "处理矛盾",
-    "subtitle": "世界由矛盾组成，我们的任务是正确处理这些矛盾",
-    "id": "mao-41"
-  },
-  {
-    "title": "通古今",
-    "subtitle": "一人不通古今，马牛而襟裾",
-    "id": "mao-42"
-  },
-  {
-    "title": "以古为鉴",
-    "subtitle": "以铜为鉴正衣冠，以古为鉴知兴替，以人为鉴明得失",
-    "id": "mao-43"
-  },
-  {
-    "title": "古为今用",
-    "subtitle": "古为今用，洋为中用",
-    "id": "mao-44"
-  },
-  {
-    "title": "批判地学",
-    "subtitle": "一切长处都要学，但必须有分析有批判地学，不能机械搬用",
-    "id": "mao-45"
-  }
-]
+  "image": "https://images.pokemontcg.io/sm115/7_hires.png",
+  "cards": [
+    {
+      "title": {
+        "cn": "先调查",
+        "tw": "先調查",
+        "ko": "먼저 조사하라",
+        "ja": "まず調査せよ",
+        "en": "Investigate First"
+      },
+      "subtitle": {
+        "cn": "没有调查，没有发言权",
+        "tw": "沒有調查，沒有發言權",
+        "ko": "조사 없이는 발언권이 없다",
+        "ja": "調査なくして発言権なし",
+        "en": "No investigation, no right to speak"
+      },
+      "id": "mao-1"
+    },
+    {
+      "title": {
+        "cn": "调查解难",
+        "tw": "調查解難",
+        "ko": "조사로 난제 해결",
+        "ja": "調査で難題解決",
+        "en": "Solve Through Investigation"
+      },
+      "subtitle": {
+        "cn": "凡是没有办法时，就去调查研究，办法就出来了",
+        "tw": "凡是沒有辦法時，就去調查研究，辦法就出來了",
+        "ko": "방법이 없을 때는 조사 연구를 하면 방법이 나온다",
+        "ja": "方法がない時は調査研究を行えば、方法が見つかる",
+        "en": "When there's no way, investigate and research, and a solution will emerge"
+      },
+      "id": "mao-2"
+    },
+    {
+      "title": {
+        "cn": "结论在后",
+        "tw": "結論在後",
+        "ko": "결론은 나중에",
+        "ja": "結論は後で",
+        "en": "Conclusion Comes After"
+      },
+      "subtitle": {
+        "cn": "一切结论产生于调查情况的末尾，而不是先头",
+        "tw": "一切結論產生於調查情況的末尾，而不是先頭",
+        "ko": "모든 결론은 조사 상황의 끝에서 나오며, 처음이 아니다",
+        "ja": "すべての結論は調査状況の末尾から生まれ、最初ではない",
+        "en": "All conclusions come at the end of investigation, not at the beginning"
+      },
+      "id": "mao-3"
+    },
+    {
+      "title": {
+        "cn": "放下架子",
+        "tw": "放下架子",
+        "ko": "체면 버리기",
+        "ja": "見栄を捨てる",
+        "en": "Drop Pretensions"
+      },
+      "subtitle": {
+        "cn": "没有眼睛向下的决心和甘当小学生的精神，是做不好的",
+        "tw": "沒有眼睛向下的決心和甘當小學生的精神，是做不好的",
+        "ko": "아래를 보는 결심과 초등학생이 되고자 하는 정신이 없으면 잘 할 수 없다",
+        "ja": "下を見る決心と小学生になる精神がなければ、うまくいかない",
+        "en": "Without the determination to look down and the spirit of being a student, nothing can be done well"
+      },
+      "id": "mao-4"
+    },
+    {
+      "title": {
+        "cn": "群众为师",
+        "tw": "群眾為師",
+        "ko": "대중을 스승으로",
+        "ja": "大衆を師とせよ",
+        "en": "Learn From Masses"
+      },
+      "subtitle": {
+        "cn": "群众是真正的英雄，而我们自己往往是幼稚可笑的",
+        "tw": "群眾是真正的英雄，而我們自己往往是幼稚可笑的",
+        "ko": "대중이 진정한 영웅이며, 우리 자신은 종종 유치하고 우스꽝스럽다",
+        "ja": "大衆こそ真の英雄であり、我々自身は往々にして幼稚で滑稽である",
+        "en": "The masses are the true heroes, while we ourselves are often childish and ridiculous"
+      },
+      "id": "mao-5"
+    },
+    {
+      "title": {
+        "cn": "抓主矛盾",
+        "tw": "抓主矛盾",
+        "ko": "주요 모순 파악",
+        "ja": "主要矛盾を捉える",
+        "en": "Grasp Main Contradiction"
+      },
+      "subtitle": {
+        "cn": "丢掉主要矛盾去研究细枝末节，仍是无发言权的",
+        "tw": "丟掉主要矛盾去研究細枝末節，仍是無發言權的",
+        "ko": "주요 모순을 버리고 세부 사항을 연구하면 여전히 발언권이 없다",
+        "ja": "主要矛盾を捨てて細部を研究しても、発言権はない",
+        "en": "Abandoning the main contradiction to study trivialities still means no right to speak"
+      },
+      "id": "mao-6"
+    },
+    {
+      "title": {
+        "cn": "不自满",
+        "tw": "不自滿",
+        "ko": "자만하지 않기",
+        "ja": "自満しない",
+        "en": "Stay Humble"
+      },
+      "subtitle": {
+        "cn": "学习的敌人是自己的满足，必须从不自满开始",
+        "tw": "學習的敵人是自己的滿足，必須從不自滿開始",
+        "ko": "학습의 적은 자신의 만족이며, 자만하지 않음에서 시작해야 한다",
+        "ja": "学習の敵は自分の満足であり、自満しないことから始めなければならない",
+        "en": "The enemy of learning is self-satisfaction, must start from staying humble"
+      },
+      "id": "mao-7"
+    },
+    {
+      "title": {
+        "cn": "学而不厌",
+        "tw": "學而不厭",
+        "ko": "배움에 싫증내지 않기",
+        "ja": "学びに飽きない",
+        "en": "Learn Tirelessly"
+      },
+      "subtitle": {
+        "cn": "对自己学而不厌，对人家诲人不倦",
+        "tw": "對自己學而不厭，對人家誨人不倦",
+        "ko": "자신은 배움에 싫증내지 않고, 타인에게는 가르침에 지치지 않는다",
+        "ja": "自分は学びに飽きず、他人には教えに倦まない",
+        "en": "Learn tirelessly yourself, teach others tirelessly"
+      },
+      "id": "mao-8"
+    },
+    {
+      "title": {
+        "cn": "日日读书",
+        "tw": "日日讀書",
+        "ko": "매일 독서하기",
+        "ja": "毎日読書",
+        "en": "Read Daily"
+      },
+      "subtitle": {
+        "cn": "饭可以一日不吃，书不可以一日不读",
+        "tw": "飯可以一日不吃，書不可以一日不讀",
+        "ko": "밥은 하루 안 먹어도 되지만, 책은 하루도 읽지 않으면 안 된다",
+        "ja": "ご飯は一日食べなくてもいいが、本は一日も読まないわけにはいかない",
+        "en": "Can skip a meal for a day, but cannot skip reading for a day"
+      },
+      "id": "mao-9"
+    },
+    {
+      "title": {
+        "cn": "挤和钻",
+        "tw": "擠和鑽",
+        "ko": "쪼개고 파고들기",
+        "ja": "時間を作り深く学ぶ",
+        "en": "Squeeze Time Study Deep"
+      },
+      "subtitle": {
+        "cn": "工作忙就要挤，看不懂就要钻，学习定能获胜",
+        "tw": "工作忙就要擠，看不懂就要鑽，學習定能獲勝",
+        "ko": "일이 바쁘면 시간을 쪼개고, 이해가 안 되면 파고들어야 하며, 학습은 반드시 승리한다",
+        "ja": "仕事が忙しければ時間を作り、理解できなければ深く学び、学習は必ず勝利する",
+        "en": "When busy, squeeze time; when unclear, study deep; learning will win"
+      },
+      "id": "mao-10"
+    },
+    {
+      "title": {
+        "cn": "学以致用",
+        "tw": "學以致用",
+        "ko": "배움을 실천에",
+        "ja": "学びを実践に",
+        "en": "Learn To Apply"
+      },
+      "subtitle": {
+        "cn": "学习的目的全在于运用，使用是更重要的学习",
+        "tw": "學習的目的全在於運用，使用是更重要的學習",
+        "ko": "학습의 목적은 모두 활용에 있으며, 사용이 더 중요한 학습이다",
+        "ja": "学習の目的はすべて運用にあり、使用がより重要な学習である",
+        "en": "The purpose of learning lies entirely in application; using is more important learning"
+      },
+      "id": "mao-11"
+    },
+    {
+      "title": {
+        "cn": "向外求学",
+        "tw": "向外求學",
+        "ko": "밖으로 배움 구하기",
+        "ja": "外に学びを求める",
+        "en": "Learn From World"
+      },
+      "subtitle": {
+        "cn": "闭门求学其学无用，欲从天下万事万物而学之",
+        "tw": "閉門求學其學無用，欲從天下萬事萬物而學之",
+        "ko": "문을 닫고 배우면 그 배움이 쓸모없으며, 천하의 만사만물로부터 배우고자 한다",
+        "ja": "門を閉じて学べばその学びは無用であり、天下のあらゆるものから学びたい",
+        "en": "Learning behind closed doors is useless; want to learn from all things under heaven"
+      },
+      "id": "mao-12"
+    },
+    {
+      "title": {
+        "cn": "不装懂",
+        "tw": "不裝懂",
+        "ko": "아는 척하지 않기",
+        "ja": "分かったふりをしない",
+        "en": "Don't Pretend Know"
+      },
+      "subtitle": {
+        "cn": "不懂就是不懂，不要装懂",
+        "tw": "不懂就是不懂，不要裝懂",
+        "ko": "모르면 모른다고 하고, 아는 척하지 말라",
+        "ja": "分からなければ分からないと言い、分かったふりをしてはいけない",
+        "en": "If you don't understand, say so; don't pretend to understand"
+      },
+      "id": "mao-13"
+    },
+    {
+      "title": {
+        "cn": "动笔读书",
+        "tw": "動筆讀書",
+        "ko": "필기하며 독서하기",
+        "ja": "筆を動かして読書",
+        "en": "Read With Pen"
+      },
+      "subtitle": {
+        "cn": "不动笔墨不读书",
+        "tw": "不動筆墨不讀書",
+        "ko": "필기하지 않고는 책을 읽지 않는다",
+        "ja": "筆墨を動かさなければ読書しない",
+        "en": "Don't read without writing"
+      },
+      "id": "mao-14"
+    },
+    {
+      "title": {
+        "cn": "循环认识",
+        "tw": "循環認識",
+        "ko": "순환적 인식",
+        "ja": "循環的認識",
+        "en": "Cyclic Understanding"
+      },
+      "subtitle": {
+        "cn": "实践、认识、再实践、再认识，循环往复以至无穷",
+        "tw": "實踐、認識、再實踐、再認識，循環往復以至無窮",
+        "ko": "실천, 인식, 재실천, 재인식, 순환 반복하여 무한에 이른다",
+        "ja": "実践、認識、再実践、再認識、循環往復して無限に至る",
+        "en": "Practice, understand, practice again, understand again, cycle infinitely"
+      },
+      "id": "mao-15"
+    },
+    {
+      "title": {
+        "cn": "实践为源",
+        "tw": "實踐為源",
+        "ko": "실천이 원천",
+        "ja": "実践が源",
+        "en": "Practice Is Source"
+      },
+      "subtitle": {
+        "cn": "实践是认识的源泉、动力和目的",
+        "tw": "實踐是認識的源泉、動力和目的",
+        "ko": "실천은 인식의 원천, 동력, 목적이다",
+        "ja": "実践は認識の源泉、動力、目的である",
+        "en": "Practice is the source, motivation, and purpose of understanding"
+      },
+      "id": "mao-16"
+    },
+    {
+      "title": {
+        "cn": "具体分析",
+        "tw": "具體分析",
+        "ko": "구체적 분석",
+        "ja": "具体的分析",
+        "en": "Concrete Analysis"
+      },
+      "subtitle": {
+        "cn": "具体问题具体分析",
+        "tw": "具體問題具體分析",
+        "ko": "구체적 문제는 구체적으로 분석한다",
+        "ja": "具体的問題は具体的に分析する",
+        "en": "Analyze concrete problems concretely"
+      },
+      "id": "mao-17"
+    },
+    {
+      "title": {
+        "cn": "主次分明",
+        "tw": "主次分明",
+        "ko": "주차 구분 명확히",
+        "ja": "主次を明確に",
+        "en": "Distinguish Primary Secondary"
+      },
+      "subtitle": {
+        "cn": "分清主要矛盾和次要矛盾，捉住主要矛盾迎刃而解",
+        "tw": "分清主要矛盾和次要矛盾，捉住主要矛盾迎刃而解",
+        "ko": "주요 모순과 부차적 모순을 구분하고, 주요 모순을 파악하면 쉽게 해결된다",
+        "ja": "主要矛盾と次要矛盾を区別し、主要矛盾を捉えれば容易に解決する",
+        "en": "Distinguish main and secondary contradictions; grasp the main one and solve easily"
+      },
+      "id": "mao-18"
+    },
+    {
+      "title": {
+        "cn": "见林见树",
+        "tw": "見林見樹",
+        "ko": "숲과 나무 모두 보기",
+        "ja": "森と木の両方を見る",
+        "en": "See Forest Trees"
+      },
+      "subtitle": {
+        "cn": "不能只看见树木不看见森林，避免片面性思维",
+        "tw": "不能只看見樹木不見森林，避免片面性思維",
+        "ko": "나무만 보고 숲을 보지 말며, 편향적 사고를 피해야 한다",
+        "ja": "木だけを見て森を見てはいけず、片面的思考を避ける",
+        "en": "Cannot only see trees, not the forest; avoid one-sided thinking"
+      },
+      "id": "mao-19"
+    },
+    {
+      "title": {
+        "cn": "知己知彼",
+        "tw": "知己知彼",
+        "ko": "자기와 적을 알기",
+        "ja": "己と彼を知る",
+        "en": "Know Yourself Enemy"
+      },
+      "subtitle": {
+        "cn": "知己知彼，百战不殆",
+        "tw": "知己知彼，百戰不殆",
+        "ko": "자기와 적을 알면 백전백승한다",
+        "ja": "己と彼を知れば百戦危うからず",
+        "en": "Know yourself and your enemy, win every battle"
+      },
+      "id": "mao-20"
+    },
+    {
+      "title": {
+        "cn": "兼听则明",
+        "tw": "兼聽則明",
+        "ko": "겸청하면 밝다",
+        "ja": "兼ねて聞けば明らか",
+        "en": "Listen Both Sides"
+      },
+      "subtitle": {
+        "cn": "兼听则明，偏听则暗",
+        "tw": "兼聽則明，偏聽則暗",
+        "ko": "겸청하면 밝고, 편청하면 어둡다",
+        "ja": "兼ねて聞けば明らか、偏って聞けば暗い",
+        "en": "Listen to both sides and be clear; listen to one side and be blind"
+      },
+      "id": "mao-21"
+    },
+    {
+      "title": {
+        "cn": "两点重点",
+        "tw": "兩點重點",
+        "ko": "두 점과 중점",
+        "ja": "二点と重点",
+        "en": "Two Points Focus"
+      },
+      "subtitle": {
+        "cn": "坚持两点论和重点论的统一",
+        "tw": "堅持兩點論和重點論的統一",
+        "ko": "두 점론과 중점론의 통일을 고수한다",
+        "ja": "二点論と重点論の統一を堅持する",
+        "en": "Uphold unity of two-point theory and focus theory"
+      },
+      "id": "mao-22"
+    },
+    {
+      "title": {
+        "cn": "弹钢琴",
+        "tw": "彈鋼琴",
+        "ko": "피아노 치기",
+        "ja": "ピアノを弾く",
+        "en": "Play Piano"
+      },
+      "subtitle": {
+        "cn": "学会统筹兼顾，不能只顾一头",
+        "tw": "學會統籌兼顧，不能只顧一頭",
+        "ko": "통괄적 배려를 배우고, 한쪽만 고려해서는 안 된다",
+        "ja": "統括的配慮を学び、一方だけを考慮してはいけない",
+        "en": "Learn to coordinate and balance, cannot focus on only one aspect"
+      },
+      "id": "mao-23"
+    },
+    {
+      "title": {
+        "cn": "藐视重视",
+        "tw": "藐視重視",
+        "ko": "경시와 중시",
+        "ja": "軽視と重視",
+        "en": "Despise Strategically Value Tactically"
+      },
+      "subtitle": {
+        "cn": "战略上藐视它，战术上重视它",
+        "tw": "戰略上藐視它，戰術上重視它",
+        "ko": "전략적으로는 경시하고, 전술적으로는 중시한다",
+        "ja": "戦略的には軽視し、戦術的には重視する",
+        "en": "Despise it strategically, value it tactically"
+      },
+      "id": "mao-24"
+    },
+    {
+      "title": {
+        "cn": "常打扫",
+        "tw": "常打掃",
+        "ko": "자주 청소하기",
+        "ja": "常に掃除する",
+        "en": "Clean Regularly"
+      },
+      "subtitle": {
+        "cn": "房子应经常打扫，思想和工作也应打扫和洗涤",
+        "tw": "房子應經常打掃，思想和工作也應打掃和洗滌",
+        "ko": "집은 자주 청소해야 하며, 사상과 업무도 청소하고 세탁해야 한다",
+        "ja": "家は常に掃除すべきであり、思想と仕事も掃除し洗浄すべきである",
+        "en": "House should be cleaned regularly; thoughts and work should also be cleaned"
+      },
+      "id": "mao-25"
+    },
+    {
+      "title": {
+        "cn": "知无不言",
+        "tw": "知無不言",
+        "ko": "아는 바를 다 말하기",
+        "ja": "知っていることをすべて言う",
+        "en": "Say All You Know"
+      },
+      "subtitle": {
+        "cn": "知无不言，言无不尽，言者无罪，闻者足戒",
+        "tw": "知無不言，言無不盡，言者無罪，聞者足戒",
+        "ko": "아는 바를 다 말하고, 말을 다하며, 말하는 자는 죄가 없고, 듣는 자는 경계할 만하다",
+        "ja": "知っていることをすべて言い、言い尽くし、言う者は罪なく、聞く者は戒めとする",
+        "en": "Say all you know, exhaust all words; speaker innocent, listener warned"
+      },
+      "id": "mao-26"
+    },
+    {
+      "title": {
+        "cn": "有则改之",
+        "tw": "有則改之",
+        "ko": "있으면 고치기",
+        "ja": "あれば改める",
+        "en": "Correct If Wrong"
+      },
+      "subtitle": {
+        "cn": "有则改之，无则加勉",
+        "tw": "有則改之，無則加勉",
+        "ko": "있으면 고치고, 없으면 더욱 노력한다",
+        "ja": "あれば改め、なければさらに励む",
+        "en": "If wrong, correct it; if not, work harder"
+      },
+      "id": "mao-27"
+    },
+    {
+      "title": {
+        "cn": "批评团结",
+        "tw": "批評團結",
+        "ko": "비판과 단결",
+        "ja": "批判と団結",
+        "en": "Criticism Unity"
+      },
+      "subtitle": {
+        "cn": "从团结出发，经过批评，达到新的团结",
+        "tw": "從團結出發，經過批評，達到新的團結",
+        "ko": "단결에서 출발하여 비판을 거쳐 새로운 단결에 도달한다",
+        "ja": "団結から出発し、批判を経て新しい団結に達する",
+        "en": "Start from unity, through criticism, achieve new unity"
+      },
+      "id": "mao-28"
+    },
+    {
+      "title": {
+        "cn": "实事求是",
+        "tw": "實事求是",
+        "ko": "실사구시",
+        "ja": "事実に基づいて真理を求める",
+        "en": "Seek Truth Facts"
+      },
+      "subtitle": {
+        "cn": "一切从实际出发，理论联系实际",
+        "tw": "一切從實際出發，理論聯繫實際",
+        "ko": "모든 것은 실제에서 출발하며, 이론은 실제와 연결된다",
+        "ja": "すべては実際から出発し、理論は実際と結びつく",
+        "en": "Everything starts from reality; theory connects with practice"
+      },
+      "id": "mao-29"
+    },
+    {
+      "title": {
+        "cn": "反本本",
+        "tw": "反本本",
+        "ko": "본본주의 반대",
+        "ja": "本本主義に反対",
+        "en": "Oppose Dogmatism"
+      },
+      "subtitle": {
+        "cn": "反对本本主义，离开实际就堕入空想和盲动",
+        "tw": "反對本本主義，離開實際就墮入空想和盲動",
+        "ko": "본본주의에 반대하며, 실제를 떠나면 공상과 맹동에 빠진다",
+        "ja": "本本主義に反対し、実際から離れれば空想と盲動に陥る",
+        "en": "Oppose dogmatism; leaving reality leads to fantasy and blind action"
+      },
+      "id": "mao-30"
+    },
+    {
+      "title": {
+        "cn": "去三性",
+        "tw": "去三性",
+        "ko": "삼성 제거하기",
+        "ja": "三性を除く",
+        "en": "Remove Three Biases"
+      },
+      "subtitle": {
+        "cn": "研究问题忌带主观性、片面性和表面性",
+        "tw": "研究問題忌帶主觀性、片面性和表面性",
+        "ko": "문제 연구 시 주관성, 편면성, 표면성을 피해야 한다",
+        "ja": "問題研究では主観性、片面性、表面性を避ける",
+        "en": "When studying problems, avoid subjectivity, one-sidedness, and superficiality"
+      },
+      "id": "mao-31"
+    },
+    {
+      "title": {
+        "cn": "有点精神",
+        "tw": "有點精神",
+        "ko": "정신이 좀 있어야",
+        "ja": "少し精神が必要",
+        "en": "Need Some Spirit"
+      },
+      "subtitle": {
+        "cn": "人是要有一点精神的",
+        "tw": "人是要有一點精神的",
+        "ko": "사람은 정신이 좀 있어야 한다",
+        "ja": "人は少し精神が必要である",
+        "en": "People need some spirit"
+      },
+      "id": "mao-32"
+    },
+    {
+      "title": {
+        "cn": "高尚纯粹",
+        "tw": "高尚純粹",
+        "ko": "고상하고 순수하게",
+        "ja": "高尚で純粋に",
+        "en": "Noble Pure"
+      },
+      "subtitle": {
+        "cn": "有这点精神就是高尚的人、纯粹的人、有益于人民的人",
+        "tw": "有這點精神就是高尚的人、純粹的人、有益於人民的人",
+        "ko": "이 정신이 있으면 고상한 사람, 순수한 사람, 인민에 유익한 사람이다",
+        "ja": "この精神があれば高尚な人、純粋な人、人民に有益な人である",
+        "en": "With this spirit, one becomes noble, pure, and beneficial to the people"
+      },
+      "id": "mao-33"
+    },
+    {
+      "title": {
+        "cn": "重于泰山",
+        "tw": "重於泰山",
+        "ko": "태산보다 무겁게",
+        "ja": "泰山より重く",
+        "en": "Heavier Than Mountain"
+      },
+      "subtitle": {
+        "cn": "人固有一死，或重于泰山，或轻于鸿毛",
+        "tw": "人固有一死，或重於泰山，或輕於鴻毛",
+        "ko": "사람은 반드시 죽으며, 태산보다 무겁거나 기러기 털보다 가볍다",
+        "ja": "人は必ず死ぬが、泰山より重いか、雁の羽より軽いか",
+        "en": "Everyone dies; some deaths heavier than Mount Tai, some lighter than a feather"
+      },
+      "id": "mao-34"
+    },
+    {
+      "title": {
+        "cn": "排除万难",
+        "tw": "排除萬難",
+        "ko": "만난 극복하기",
+        "ja": "万難を排除",
+        "en": "Overcome All Obstacles"
+      },
+      "subtitle": {
+        "cn": "下定决心，不怕牺牲，排除万难，去争取胜利",
+        "tw": "下定決心，不怕犧牲，排除萬難，去爭取勝利",
+        "ko": "결심을 굳히고, 희생을 두려워하지 않으며, 만난을 극복하고 승리를 쟁취한다",
+        "ja": "決心を固め、犠牲を恐れず、万難を排除し、勝利を争い取る",
+        "en": "Be determined, fear no sacrifice, overcome all obstacles, strive for victory"
+      },
+      "id": "mao-35"
+    },
+    {
+      "title": {
+        "cn": "前途光明",
+        "tw": "前途光明",
+        "ko": "전도는 밝다",
+        "ja": "前途は明るい",
+        "en": "Bright Future Ahead"
+      },
+      "subtitle": {
+        "cn": "道路总是曲折的，前途总是光明的",
+        "tw": "道路總是曲折的，前途總是光明的",
+        "ko": "길은 항상 구불구불하지만, 전도는 항상 밝다",
+        "ja": "道は常に曲がりくねっているが、前途は常に明るい",
+        "en": "The road is always winding, but the future is always bright"
+      },
+      "id": "mao-36"
+    },
+    {
+      "title": {
+        "cn": "星火燎原",
+        "tw": "星火燎原",
+        "ko": "별불이 들판을 태우다",
+        "ja": "星火が原を焼く",
+        "en": "Spark Sets Prairie Fire"
+      },
+      "subtitle": {
+        "cn": "星星之火，可以燎原",
+        "tw": "星星之火，可以燎原",
+        "ko": "별불이 들판을 태울 수 있다",
+        "ja": "星の火が原を焼くことができる",
+        "en": "A single spark can start a prairie fire"
+      },
+      "id": "mao-37"
+    },
+    {
+      "title": {
+        "cn": "迅速改错",
+        "tw": "迅速改錯",
+        "ko": "빠르게 잘못 고치기",
+        "ja": "迅速に間違いを改める",
+        "en": "Correct Mistakes Quickly"
+      },
+      "subtitle": {
+        "cn": "任何人都会犯错误，改正得越迅速越彻底越好",
+        "tw": "敵人都會犯錯誤，改正得越迅速越徹底越好",
+        "ko": "누구나 실수를 하며, 고칠수록 빠르고 철저할수록 좋다",
+        "ja": "誰でも間違いを犯すが、改めるほど迅速で徹底的であるほど良い",
+        "en": "Everyone makes mistakes; the faster and more thorough the correction, the better"
+      },
+      "id": "mao-38"
+    },
+    {
+      "title": {
+        "cn": "本领恐慌",
+        "tw": "本領恐慌",
+        "ko": "능력 공황",
+        "ja": "能力パニック",
+        "en": "Skill Panic"
+      },
+      "subtitle": {
+        "cn": "我们队伍里有一种恐慌，是本领恐慌",
+        "tw": "我們隊伍裡有一種恐慌，是本領恐慌",
+        "ko": "우리 대오에는 한 가지 공황이 있는데, 그것은 능력 공황이다",
+        "ja": "我々の隊伍には一種のパニックがあり、それは能力パニックである",
+        "en": "There is a panic in our ranks: skill panic"
+      },
+      "id": "mao-39"
+    },
+    {
+      "title": {
+        "cn": "学新本领",
+        "tw": "學新本領",
+        "ko": "새 능력 배우기",
+        "ja": "新しい能力を学ぶ",
+        "en": "Learn New Skills"
+      },
+      "subtitle": {
+        "cn": "我们熟习的东西快要闲起来，不熟习的正强迫我们去做",
+        "tw": "我們熟習的東西快要閒起來，不熟習的正強迫我們去做",
+        "ko": "우리가 익숙한 것은 곧 한가해지고, 익숙하지 않은 것이 우리에게 강요되고 있다",
+        "ja": "我々が慣れ親しんだものはすぐに暇になり、慣れていないものが我々に強要されている",
+        "en": "What we're familiar with is becoming idle; what we're not familiar with is forcing us"
+      },
+      "id": "mao-40"
+    },
+    {
+      "title": {
+        "cn": "处理矛盾",
+        "tw": "處理矛盾",
+        "ko": "모순 처리하기",
+        "ja": "矛盾を処理する",
+        "en": "Handle Contradictions"
+      },
+      "subtitle": {
+        "cn": "世界由矛盾组成，我们的任务是正确处理这些矛盾",
+        "tw": "世界由矛盾組成，我們的任務是正確處理這些矛盾",
+        "ko": "세계는 모순으로 구성되며, 우리의 임무는 이 모순들을 올바르게 처리하는 것이다",
+        "ja": "世界は矛盾で構成され、我々の任務はこれらの矛盾を正しく処理することである",
+        "en": "The world consists of contradictions; our task is to handle them correctly"
+      },
+      "id": "mao-41"
+    },
+    {
+      "title": {
+        "cn": "通古今",
+        "tw": "通古今",
+        "ko": "고금에 통달하기",
+        "ja": "古今に通じる",
+        "en": "Know Past Present"
+      },
+      "subtitle": {
+        "cn": "一人不通古今，马牛而襟裾",
+        "tw": "一人不通古今，馬牛而襟裾",
+        "ko": "한 사람이 고금에 통달하지 못하면 말과 소에 옷을 입힌 것과 같다",
+        "ja": "一人が古今に通じなければ、馬と牛に襟を着せたようなもの",
+        "en": "One who doesn't understand past and present is like dressing horses and cattle"
+      },
+      "id": "mao-42"
+    },
+    {
+      "title": {
+        "cn": "以古为鉴",
+        "tw": "以古為鑑",
+        "ko": "고사를 거울로 삼기",
+        "ja": "古を鑑とする",
+        "en": "Learn From History"
+      },
+      "subtitle": {
+        "cn": "以铜为鉴正衣冠，以古为鉴知兴替，以人为鉴明得失",
+        "tw": "以銅為鑑正衣冠，以古為鑑知興替，以人為鑑明得失",
+        "ko": "구리로 거울을 삼아 의관을 바르게 하고, 고사를 거울로 삼아 흥망을 알고, 사람을 거울로 삼아 득실을 밝힌다",
+        "ja": "銅を鑑として衣冠を正し、古を鑑として興替を知り、人を鑑として得失を明らかにする",
+        "en": "Use bronze as mirror to straighten clothes; use history as mirror to know rise and fall; use people as mirror to understand gains and losses"
+      },
+      "id": "mao-43"
+    },
+    {
+      "title": {
+        "cn": "古为今用",
+        "tw": "古為今用",
+        "ko": "고것을 오늘에 활용",
+        "ja": "古を今に用いる",
+        "en": "Use Past For Present"
+      },
+      "subtitle": {
+        "cn": "古为今用，洋为中用",
+        "tw": "古為今用，洋為中用",
+        "ko": "고것을 오늘에 활용하고, 서양 것을 중국에 활용한다",
+        "ja": "古を今に用い、洋を中に用いる",
+        "en": "Use the past for the present; use the foreign for China"
+      },
+      "id": "mao-44"
+    },
+    {
+      "title": {
+        "cn": "批判地学",
+        "tw": "批判地學",
+        "ko": "비판적으로 배우기",
+        "ja": "批判的に学ぶ",
+        "en": "Learn Critically"
+      },
+      "subtitle": {
+        "cn": "一切长处都要学，但必须有分析有批判地学，不能机械搬用",
+        "tw": "一切長處都要學，但必須有分析有批判地學，不能機械搬用",
+        "ko": "모든 장점을 배워야 하지만, 반드시 분석하고 비판적으로 배워야 하며, 기계적으로 옮겨 쓸 수 없다",
+        "ja": "すべての長所を学ぶべきだが、必ず分析し批判的に学び、機械的に借用してはいけない",
+        "en": "Learn all strengths, but must learn analytically and critically, cannot mechanically copy"
+      },
+      "id": "mao-45"
+    }
+  ]
+}
