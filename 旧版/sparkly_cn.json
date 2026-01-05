@@ -1,562 +1,402 @@
 [
   {
-    "id": "sparkly-1",
     "title": "行动优先",
     "subtitle": "想一干遍不如做一遍，先动起来",
-    "baguaType": "zhen",
-    "realm": "earth"
+    "id": "sparkly-1"
   },
   {
-    "id": "sparkly-2",
     "title": "追踪进度",
     "subtitle": "做个表格，记录目标完成了多少",
-    "baguaType": "qian",
-    "realm": "earth"
+    "id": "sparkly-2"
   },
   {
-    "id": "sparkly-3",
     "title": "复利思维",
     "subtitle": "每天进步1%，一年后你将比现在优秀38倍",
-    "baguaType": "kun",
-    "realm": "human"
+    "id": "sparkly-3"
   },
   {
-    "id": "sparkly-4",
     "title": "成长导向",
     "subtitle": "关注过程、努力和进步，而非仅仅结果",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-4"
   },
   {
-    "id": "sparkly-5",
     "title": "反思复盘",
     "subtitle": "定期回顾经历，总结经验教训",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-5"
   },
   {
-    "id": "sparkly-6",
     "title": "两分钟法则",
     "subtitle": "两分钟内能做完的事，立刻去做",
-    "baguaType": "zhen",
-    "realm": "earth"
+    "id": "sparkly-6"
   },
   {
-    "id": "sparkly-7",
     "title": "断舍离",
     "subtitle": "舍弃无关紧要的人/事/物，聚焦核心",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-7"
   },
   {
-    "id": "sparkly-8",
     "title": "目标分解",
     "subtitle": "把大目标拆解成小步骤，逐个完成",
-    "baguaType": "qian",
-    "realm": "earth"
+    "id": "sparkly-8"
   },
   {
-    "id": "sparkly-9",
     "title": "迭代思维",
     "subtitle": "先完成再完美，通过小步快跑持续改进",
-    "baguaType": "zhen",
-    "realm": "human"
+    "id": "sparkly-9"
   },
   {
-    "id": "sparkly-10",
     "title": "要事优先",
     "subtitle": "集中精力做最重要、影响最大的事",
-    "baguaType": "qian",
-    "realm": "earth"
+    "id": "sparkly-10"
   },
   {
-    "id": "sparkly-11",
     "title": "阶段奖励",
     "subtitle": "完成一个小目标，给自己点小奖励",
-    "baguaType": "dui",
-    "realm": "earth"
+    "id": "sparkly-11"
   },
   {
-    "id": "sparkly-12",
     "title": "番茄工作法",
     "subtitle": "25分钟专注工作+5分钟休息，提升效率",
-    "baguaType": "kun",
-    "realm": "earth"
+    "id": "sparkly-12"
   },
   {
-    "id": "sparkly-13",
     "title": "外包思维",
     "subtitle": "将非核心或他人更擅长的事委托出去",
-    "baguaType": "qian",
-    "realm": "human"
+    "id": "sparkly-13"
   },
   {
-    "id": "sparkly-14",
     "title": "心流状态",
     "subtitle": "创造高度专注的环境。例：做热爱且擅长的事",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-14"
   },
   {
-    "id": "sparkly-15",
     "title": "长线思维",
     "subtitle": "关注长期目标和价值，不被短期诱惑干扰",
-    "baguaType": "qian",
-    "realm": "human"
+    "id": "sparkly-15"
   },
   {
-    "id": "sparkly-16",
     "title": "二八法则",
     "subtitle": "20%努力决定80%结果，抓住关键少数",
-    "baguaType": "qian",
-    "realm": "human"
+    "id": "sparkly-16"
   },
   {
-    "id": "sparkly-17",
     "title": "机会成本",
     "subtitle": "选择A意味着放弃B的价值，决策需权衡",
-    "baguaType": "qian",
-    "realm": "human"
+    "id": "sparkly-17"
   },
   {
-    "id": "sparkly-18",
     "title": "价值思维",
     "subtitle": "别只看\"我花了多少力\"，看\"创造了啥价值\"",
-    "baguaType": "dui",
-    "realm": "human"
+    "id": "sparkly-18"
   },
   {
-    "id": "sparkly-19",
     "title": "逆向思维",
     "subtitle": "\"反其道而思之\"，可能有更优解",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-19"
   },
   {
-    "id": "sparkly-20",
     "title": "辩证思维",
     "subtitle": "看到事物的两面性，福祸相依",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-20"
   },
   {
-    "id": "sparkly-21",
     "title": "周期思维",
     "subtitle": "万物有周期，低谷时别慌，会慢慢上来的",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-21"
   },
   {
-    "id": "sparkly-22",
     "title": "奥卡姆剃刀",
     "subtitle": "把复杂事情简单化，往往最接近成功",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-22"
   },
   {
-    "id": "sparkly-23",
     "title": "灰犀牛思维",
     "subtitle": "警惕明显却被忽视的重大风险，并主动预防",
-    "baguaType": "gen",
-    "realm": "human"
+    "id": "sparkly-23"
   },
   {
-    "id": "sparkly-24",
     "title": "墨菲定律",
     "subtitle": "可能出错的事总会出错，提前做好预案",
-    "baguaType": "gen",
-    "realm": "human"
+    "id": "sparkly-24"
   },
   {
-    "id": "sparkly-25",
     "title": "多元视角",
     "subtitle": "同一件事，换个角度看，结论可能不一样",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-25"
   },
   {
-    "id": "sparkly-26",
     "title": "能力圈",
     "subtitle": "清楚自己懂什么不懂什么，在能力范围内行事",
-    "baguaType": "gen",
-    "realm": "human"
+    "id": "sparkly-26"
   },
   {
-    "id": "sparkly-27",
     "title": "风险思维",
     "subtitle": "做决定前，先想\"最坏的结果能接受吗\"",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-27"
   },
   {
-    "id": "sparkly-28",
     "title": "趋势思维",
     "subtitle": "看看大家都在往哪走，顺着趋势走省力",
-    "baguaType": "qian",
-    "realm": "human"
+    "id": "sparkly-28"
   },
   {
-    "id": "sparkly-29",
     "title": "概率思维",
     "subtitle": "别求\"一定成\"，多做大概率赢的事",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-29"
   },
   {
-    "id": "sparkly-30",
     "title": "批判性思维",
     "subtitle": "质疑信息，分析证据，独立思考，不盲从",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-30"
   },
   {
-    "id": "sparkly-31",
     "title": "第一性原理",
     "subtitle": "抛开表象，回归事物最基本的事实思考",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-31"
   },
   {
-    "id": "sparkly-32",
     "title": "空杯心态",
     "subtitle": "保持开放，虚心学习，不自满不固执",
-    "baguaType": "kan",
-    "realm": "earth"
+    "id": "sparkly-32"
   },
   {
-    "id": "sparkly-33",
     "title": "主动思维",
     "subtitle": "机会不会等你，想要就自己伸手",
-    "baguaType": "zhen",
-    "realm": "earth"
+    "id": "sparkly-33"
   },
   {
-    "id": "sparkly-34",
     "title": "清醒思维",
     "subtitle": "别被表扬冲昏头，也别被批评打垮",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-34"
   },
   {
-    "id": "sparkly-35",
     "title": "钝感力",
     "subtitle": "对小事别太敏感，钝一点更轻松",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-35"
   },
   {
-    "id": "sparkly-36",
     "title": "节奏思维",
     "subtitle": "别跟他人比速度，找到自己的节奏",
-    "baguaType": "kun",
-    "realm": "earth"
+    "id": "sparkly-36"
   },
   {
-    "id": "sparkly-37",
     "title": "容错思维",
     "subtitle": "允许自己犯错，重点是下次改",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-37"
   },
   {
-    "id": "sparkly-38",
     "title": "感恩心态",
     "subtitle": "常怀感激，关注已有，提升幸福感",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-38"
   },
   {
-    "id": "sparkly-39",
     "title": "自我效能感",
     "subtitle": "相信自己有能力完成特定任务",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-39"
   },
   {
-    "id": "sparkly-40",
     "title": "保持好奇心",
     "subtitle": "对世界保持开放和探索的欲望",
-    "baguaType": "kan",
-    "realm": "earth"
+    "id": "sparkly-40"
   },
   {
-    "id": "sparkly-41",
     "title": "乐观主义",
     "subtitle": "相信未来会更好，积极面对困难",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-41"
   },
   {
-    "id": "sparkly-42",
     "title": "内观思维",
     "subtitle": "烦躁时先问自己：我到底在纠结啥",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-42"
   },
   {
-    "id": "sparkly-43",
     "title": "延迟满足",
     "subtitle": "克制即时欲望，为长远更大回报忍耐",
-    "baguaType": "kun",
-    "realm": "human"
+    "id": "sparkly-43"
   },
   {
-    "id": "sparkly-44",
     "title": "自我关怀",
     "subtitle": "像对待好朋友一样善待和理解自己",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-44"
   },
   {
-    "id": "sparkly-45",
     "title": "接纳自我",
     "subtitle": "接受自己的不完美，才能慢慢变完美",
-    "baguaType": "li",
-    "realm": "earth"
+    "id": "sparkly-45"
   },
   {
-    "id": "sparkly-46",
     "title": "归零思维",
     "subtitle": "过去的成绩别常挂嘴边，随时重新开始",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-46"
   },
   {
-    "id": "sparkly-47",
     "title": "正念当下",
     "subtitle": "专注感受当下，不纠结、不焦虑过去和未来",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-47"
   },
   {
-    "id": "sparkly-48",
     "title": "课题分离",
     "subtitle": "分清自己的事和他人的事，各管各的不瞎操心",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-48"
   },
   {
-    "id": "sparkly-49",
     "title": "建立信任",
     "subtitle": "言行一致，可靠守信，是人际基础",
-    "baguaType": "xun",
-    "realm": "human"
+    "id": "sparkly-49"
   },
   {
-    "id": "sparkly-50",
     "title": "处理冲突",
     "subtitle": "以解决问题为目标，而非争输赢",
-    "baguaType": "xun",
-    "realm": "human"
+    "id": "sparkly-50"
   },
   {
-    "id": "sparkly-51",
     "title": "有效反馈",
     "subtitle": "给予具体、及时、建设性的意见",
-    "baguaType": "xun",
-    "realm": "earth"
+    "id": "sparkly-51"
   },
   {
-    "id": "sparkly-52",
     "title": "给予者心态",
     "subtitle": "乐于分享知识、资源、帮助，建立信任",
-    "baguaType": "dui",
-    "realm": "human"
+    "id": "sparkly-52"
   },
   {
-    "id": "sparkly-53",
     "title": "影响力",
     "subtitle": "通过专业、信誉和沟通有效说服他人",
-    "baguaType": "xun",
-    "realm": "human"
+    "id": "sparkly-53"
   },
   {
-    "id": "sparkly-54",
     "title": "主动倾听",
     "subtitle": "少打断别人，多听比多说更受欢迎",
-    "baguaType": "xun",
-    "realm": "earth"
+    "id": "sparkly-54"
   },
   {
-    "id": "sparkly-55",
     "title": "双赢思维",
     "subtitle": "寻求互惠互利的解决方案",
-    "baguaType": "xun",
-    "realm": "human"
+    "id": "sparkly-55"
   },
   {
-    "id": "sparkly-56",
     "title": "同理心",
     "subtitle": "设身处地理解他人的感受和想法",
-    "baguaType": "xun",
-    "realm": "earth"
+    "id": "sparkly-56"
   },
   {
-    "id": "sparkly-57",
     "title": "合作思维",
     "subtitle": "协作比单打独斗更能创造更大的价值",
-    "baguaType": "xun",
-    "realm": "human"
+    "id": "sparkly-57"
   },
   {
-    "id": "sparkly-58",
     "title": "管理期望",
     "subtitle": "清晰沟通目标和预期，避免误解和失望",
-    "baguaType": "xun",
-    "realm": "human"
+    "id": "sparkly-58"
   },
   {
-    "id": "sparkly-59",
     "title": "建立人脉",
     "subtitle": "维护有价值的关系网络，互惠互助",
-    "baguaType": "dui",
-    "realm": "human"
+    "id": "sparkly-59"
   },
   {
-    "id": "sparkly-60",
     "title": "赞美与认可",
     "subtitle": "真诚地欣赏和肯定他人的贡献和优点",
-    "baguaType": "xun",
-    "realm": "earth"
+    "id": "sparkly-60"
   },
   {
-    "id": "sparkly-61",
     "title": "边界意识",
     "subtitle": "别总麻烦他人，也别让他人随便麻烦你",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-61"
   },
   {
-    "id": "sparkly-62",
     "title": "换位思考",
     "subtitle": "站在对方角度看问题，理解立场和动机",
-    "baguaType": "xun",
-    "realm": "earth"
+    "id": "sparkly-62"
   },
   {
-    "id": "sparkly-63",
     "title": "求同存异",
     "subtitle": "在分歧中寻找共同点，尊重不同观点",
-    "baguaType": "xun",
-    "realm": "human"
+    "id": "sparkly-63"
   },
   {
-    "id": "sparkly-64",
     "title": "非暴力沟通",
     "subtitle": "清晰表达自己的感受和需求等，减少冲突",
-    "baguaType": "xun",
-    "realm": "earth"
+    "id": "sparkly-64"
   },
   {
-    "id": "sparkly-65",
     "title": "讲故事能力",
     "subtitle": "用故事传递情感和价值观，或许更有感染力",
-    "baguaType": "li",
-    "realm": "human"
+    "id": "sparkly-65"
   },
   {
-    "id": "sparkly-66",
     "title": "终身学习",
     "subtitle": "保持持续学习的热情和习惯",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-66"
   },
   {
-    "id": "sparkly-67",
     "title": "试错迭代",
     "subtitle": "过去的想法可能错了，别怕推翻自己",
-    "baguaType": "zhen",
-    "realm": "human"
+    "id": "sparkly-67"
   },
   {
-    "id": "sparkly-68",
     "title": "知识迁移",
     "subtitle": "将学到的知识应用到新情境中",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-68"
   },
   {
-    "id": "sparkly-69",
     "title": "简化思维",
     "subtitle": "去除冗余，抓住核心，让复杂变简单",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-69"
   },
   {
-    "id": "sparkly-70",
     "title": "模式识别",
     "subtitle": "从经验或数据中发现重复出现的规律",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-70"
   },
   {
-    "id": "sparkly-71",
     "title": "跨界思维",
     "subtitle": "借鉴不同领域的知识和方法，激发创新",
-    "baguaType": "kan",
-    "realm": "human"
+    "id": "sparkly-71"
   },
   {
-    "id": "sparkly-72",
     "title": "刻意好奇",
     "subtitle": "主动提问\"为什么\"、\"如果.会怎样\"",
-    "baguaType": "kan",
-    "realm": "earth"
+    "id": "sparkly-72"
   },
   {
-    "id": "sparkly-73",
     "title": "成长思维",
     "subtitle": "遇到难的事，别想\"我不行\"，想\"我能学到啥\"",
-    "baguaType": "kan",
-    "realm": "earth"
+    "id": "sparkly-73"
   },
   {
-    "id": "sparkly-74",
     "title": "关联思维",
     "subtitle": "这件事和那件事有啥关系？多找找联系",
-    "baguaType": "kan",
-    "realm": "earth"
+    "id": "sparkly-74"
   },
   {
-    "id": "sparkly-75",
     "title": "分散思维",
     "subtitle": "钱分投多处，降低单一风险",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-75"
   },
   {
-    "id": "sparkly-76",
     "title": "刚需思维",
     "subtitle": "投人们必需的领域，需求稳",
-    "baguaType": "qian",
-    "realm": "human"
+    "id": "sparkly-76"
   },
   {
-    "id": "sparkly-77",
     "title": "止损思维",
     "subtitle": "亏到预设线就撤，保住本金",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-77"
   },
   {
-    "id": "sparkly-78",
     "title": "杠杆警惕",
     "subtitle": "少借钱投资，避免亏光",
-    "baguaType": "gen",
-    "realm": "earth"
+    "id": "sparkly-78"
   },
   {
-    "id": "sparkly-79",
     "title": "IP思维",
     "subtitle": "把一个事物打造成眼熟能赚钱的\"招牌\"",
-    "baguaType": "dui",
-    "realm": "human"
+    "id": "sparkly-79"
   },
   {
-    "id": "sparkly-80",
     "title": "趋势思维",
     "subtitle": "跟着大方向（如行业风口）走，顺势赚钱更省力",
-    "baguaType": "qian",
-    "realm": "human"
+    "id": "sparkly-80"
   }
 ]

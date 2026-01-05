@@ -15,1365 +15,1525 @@
   },
   "image": "https://images.pokemontcg.io/swsh9/29_hires.png",
   "cards": [
-      {
-        "title": {
-          "cn": "行动优先",
-          "tw": "行動優先",
-          "ko": "행동 우선",
-          "ja": "行動優先",
-          "en": "Action First"
-        },
-        "subtitle": {
-          "cn": "想一干遍不如做一遍，先动起来",
-          "tw": "想一千遍不如做一遍，先動起來",
-          "ko": "천 번 생각하는 것보다 한 번 행동하는 것이 낫다, 먼저 움직여라",
-          "ja": "千回考えるより一回行動する方が良い、まず動き出そう",
-          "en": "Thinking a thousand times is worse than doing once; start moving"
-        },
-        "id": "sparkly-1"
-      },
-      {
-        "title": {
-          "cn": "追踪进度",
-          "tw": "追蹤進度",
-          "ko": "진도 추적",
-          "ja": "進捗を追跡",
-          "en": "Track Progress"
-        },
-        "subtitle": {
-          "cn": "做个表格，记录目标完成了多少",
-          "tw": "做個表格，記錄目標完成了多少",
-          "ko": "표를 만들어 목표를 얼마나 달성했는지 기록하라",
-          "ja": "表を作り、目標をどれだけ達成したか記録する",
-          "en": "Make a table to record how much of the goal is completed"
-        },
-        "id": "sparkly-2"
-      },
-      {
-        "title": {
-          "cn": "复利思维",
-          "tw": "複利思維",
-          "ko": "복리 사고",
-          "ja": "複利思考",
-          "en": "Compound Thinking"
-        },
-        "subtitle": {
-          "cn": "每天进步1%，一年后你将比现在优秀38倍",
-          "tw": "每天進步1%，一年後你將比現在優秀38倍",
-          "ko": "매일 1%씩 진보하면, 1년 후에는 지금보다 38배 우수해진다",
-          "ja": "毎日1%進歩すれば、1年後には今より38倍優秀になる",
-          "en": "Improve 1% daily, you'll be 38 times better in a year"
-        },
-        "id": "sparkly-3"
-      },
-      {
-        "title": {
-          "cn": "成长导向",
-          "tw": "成長導向",
-          "ko": "성장 지향",
-          "ja": "成長志向",
-          "en": "Growth Mindset"
-        },
-        "subtitle": {
-          "cn": "关注过程、努力和进步，而非仅仅结果",
-          "tw": "關注過程、努力和進步，而非僅僅結果",
-          "ko": "결과뿐만 아니라 과정, 노력, 진보에 주목하라",
-          "ja": "結果だけでなく、過程、努力、進歩に注目する",
-          "en": "Focus on process, effort, and progress, not just results"
-        },
-        "id": "sparkly-4"
-      },
-      {
-        "title": {
-          "cn": "反思复盘",
-          "tw": "反思覆盤",
-          "ko": "성찰과 복기",
-          "ja": "振り返りと復習",
-          "en": "Reflect Review"
-        },
-        "subtitle": {
-          "cn": "定期回顾经历，总结经验教训",
-          "tw": "定期回顧經歷，總結經驗教訓",
-          "ko": "정기적으로 경험을 돌아보고, 경험과 교훈을 정리하라",
-          "ja": "定期的に経験を振り返り、経験と教訓をまとめる",
-          "en": "Regularly review experiences and summarize lessons learned"
-        },
-        "id": "sparkly-5"
-      },
-      {
-        "title": {
-          "cn": "两分钟法则",
-          "tw": "兩分鐘法則",
-          "ko": "2분 법칙",
-          "ja": "2分ルール",
-          "en": "Two Minute Rule"
-        },
-        "subtitle": {
-          "cn": "两分钟内能做完的事，立刻去做",
-          "tw": "兩分鐘內能做完的事，立刻去做",
-          "ko": "2분 안에 할 수 있는 일은 즉시 하라",
-          "ja": "2分以内にできることはすぐにやる",
-          "en": "If it takes less than two minutes, do it immediately"
-        },
-        "id": "sparkly-6"
-      },
-      {
-        "title": {
-          "cn": "断舍离",
-          "tw": "斷捨離",
-          "ko": "단절과 정리",
-          "ja": "断捨離",
-          "en": "Declutter Focus"
-        },
-        "subtitle": {
-          "cn": "舍弃无关紧要的人/事/物，聚焦核心",
-          "tw": "捨棄無關緊要的人/事/物，聚焦核心",
-          "ko": "무관한 사람/일/물을 버리고 핵심에 집중하라",
-          "ja": "無関係な人/事/物を捨て、核心に焦点を当てる",
-          "en": "Discard irrelevant people/things/matters, focus on core"
-        },
-        "id": "sparkly-7"
-      },
-      {
-        "title": {
-          "cn": "目标分解",
-          "tw": "目標分解",
-          "ko": "목표 분해",
-          "ja": "目標分解",
-          "en": "Break Down Goals"
-        },
-        "subtitle": {
-          "cn": "把大目标拆解成小步骤，逐个完成",
-          "tw": "把大目標拆解成小步驟，逐個完成",
-          "ko": "큰 목표를 작은 단계로 나누어 하나씩 완성하라",
-          "ja": "大きな目標を小さなステップに分解し、一つずつ完成する",
-          "en": "Break big goals into small steps, complete one by one"
-        },
-        "id": "sparkly-8"
-      },
-      {
-        "title": {
-          "cn": "迭代思维",
-          "tw": "迭代思維",
-          "ko": "반복 사고",
-          "ja": "反復思考",
-          "en": "Iterative Thinking"
-        },
-        "subtitle": {
-          "cn": "先完成再完美，通过小步快跑持续改进",
-          "tw": "先完成再完美，通過小步快跑持續改進",
-          "ko": "먼저 완성하고 나서 완벽하게 하라, 작은 걸음으로 빠르게 달려 지속적으로 개선하라",
-          "ja": "まず完成させてから完璧にし、小さなステップで速く走り続けて改善する",
-          "en": "Complete first, perfect later; improve continuously through small fast steps"
-        },
-        "id": "sparkly-9"
-      },
-      {
-        "title": {
-          "cn": "要事优先",
-          "tw": "要事優先",
-          "ko": "중요한 일 우선",
-          "ja": "重要事項優先",
-          "en": "Prioritize Important"
-        },
-        "subtitle": {
-          "cn": "集中精力做最重要、影响最大的事",
-          "tw": "集中精力做最重要、影響最大的事",
-          "ko": "가장 중요하고 영향이 큰 일에 집중하라",
-          "ja": "最も重要で影響が大きいことに集中する",
-          "en": "Focus energy on most important and impactful tasks"
-        },
-        "id": "sparkly-10"
-      },
-      {
-        "title": {
-          "cn": "阶段奖励",
-          "tw": "階段獎勵",
-          "ko": "단계별 보상",
-          "ja": "段階的報酬",
-          "en": "Milestone Rewards"
-        },
-        "subtitle": {
-          "cn": "完成一个小目标，给自己点小奖励",
-          "tw": "完成一個小目標，給自己點小獎勵",
-          "ko": "작은 목표를 달성하면 자신에게 작은 보상을 주라",
-          "ja": "小さな目標を達成したら、自分に小さな報酬を与える",
-          "en": "Complete a small goal, give yourself a small reward"
-        },
-        "id": "sparkly-11"
-      },
-      {
-        "title": {
-          "cn": "番茄工作法",
-          "tw": "番茄工作法",
-          "ko": "뽀모도로 기법",
-          "ja": "ポモドーロテクニック",
-          "en": "Pomodoro Technique"
-        },
-        "subtitle": {
-          "cn": "25分钟专注工作+5分钟休息，提升效率",
-          "tw": "25分鐘專注工作+5分鐘休息，提升效率",
-          "ko": "25분 집중 작업+5분 휴식으로 효율을 높인다",
-          "ja": "25分集中作業+5分休憩で効率を上げる",
-          "en": "25 min focused work + 5 min break to boost efficiency"
-        },
-        "id": "sparkly-12"
-      },
-      {
-        "title": {
-          "cn": "外包思维",
-          "tw": "外包思維",
-          "ko": "아웃소싱 사고",
-          "ja": "アウトソーシング思考",
-          "en": "Outsource Thinking"
-        },
-        "subtitle": {
-          "cn": "将非核心或他人更擅长的事委托出去",
-          "tw": "將非核心或他人更擅長的事委託出去",
-          "ko": "핵심이 아니거나 다른 사람이 더 잘하는 일을 위탁하라",
-          "ja": "核心でないか他人がより得意なことを委託する",
-          "en": "Delegate non-core tasks or things others do better"
-        },
-        "id": "sparkly-13"
-      },
-      {
-        "title": {
-          "cn": "心流状态",
-          "tw": "心流狀態",
-          "ko": "몰입 상태",
-          "ja": "フロー状態",
-          "en": "Flow State"
-        },
-        "subtitle": {
-          "cn": "创造高度专注的环境。例：做热爱且擅长的事",
-          "tw": "創造高度專注的環境。例：做熱愛且擅長的事",
-          "ko": "높은 집중 환경을 만든다. 예: 사랑하고 잘하는 일을 하기",
-          "ja": "高度な集中環境を作る。例：愛し得意なことをする",
-          "en": "Create highly focused environment. Example: do what you love and excel at"
-        },
-        "id": "sparkly-14"
-      },
-      {
-        "title": {
-          "cn": "长线思维",
-          "tw": "長線思維",
-          "ko": "장기 사고",
-          "ja": "長期思考",
-          "en": "Long Term Thinking"
-        },
-        "subtitle": {
-          "cn": "关注长期目标和价值，不被短期诱惑干扰",
-          "tw": "關注長期目標和價值，不被短期誘惑干擾",
-          "ko": "장기 목표와 가치에 주목하고, 단기 유혹에 방해받지 않는다",
-          "ja": "長期目標と価値に注目し、短期の誘惑に惑わされない",
-          "en": "Focus on long-term goals and value, not distracted by short-term temptations"
-        },
-        "id": "sparkly-15"
-      },
-      {
-        "title": {
-          "cn": "二八法则",
-          "tw": "二八法則",
-          "ko": "파레토 법칙",
-          "ja": "パレートの法則",
-          "en": "Pareto Principle"
-        },
-        "subtitle": {
-          "cn": "20%努力决定80%结果，抓住关键少数",
-          "tw": "20%努力決定80%結果，抓住關鍵少數",
-          "ko": "20%의 노력이 80%의 결과를 결정하며, 핵심 소수를 잡는다",
-          "ja": "20%の努力が80%の結果を決定し、重要な少数を捉える",
-          "en": "20% effort determines 80% results; grasp the critical few"
-        },
-        "id": "sparkly-16"
-      },
-      {
-        "title": {
-          "cn": "机会成本",
-          "tw": "機會成本",
-          "ko": "기회 비용",
-          "ja": "機会費用",
-          "en": "Opportunity Cost"
-        },
-        "subtitle": {
-          "cn": "选择A意味着放弃B的价值，决策需权衡",
-          "tw": "選擇A意味著放棄B的價值，決策需權衡",
-          "ko": "A를 선택하는 것은 B의 가치를 포기하는 것이며, 결정은 균형을 고려해야 한다",
-          "ja": "Aを選ぶことはBの価値を放棄することを意味し、決定にはバランスが必要",
-          "en": "Choosing A means giving up B's value; decisions need balance"
-        },
-        "id": "sparkly-17"
-      },
-      {
-        "title": {
-          "cn": "价值思维",
-          "tw": "價值思維",
-          "ko": "가치 사고",
-          "ja": "価値思考",
-          "en": "Value Thinking"
-        },
-        "subtitle": {
-          "cn": "别只看\"我花了多少力\"，看\"创造了啥价值\"",
-          "tw": "別只看「我花了多少力」，看「創造了啥價值」",
-          "ko": "\"내가 얼마나 힘을 썼는지\"만 보지 말고 \"무엇을 창조했는지\"를 보라",
-          "ja": "「どれだけ力を費やしたか」だけでなく「何の価値を創造したか」を見る",
-          "en": "Don't just see \"how much effort I spent\", see \"what value I created\""
-        },
-        "id": "sparkly-18"
-      },
-      {
-        "title": {
-          "cn": "逆向思维",
-          "tw": "逆向思維",
-          "ko": "역방향 사고",
-          "ja": "逆方向思考",
-          "en": "Reverse Thinking"
-        },
-        "subtitle": {
-          "cn": "\"反其道而思之\"，可能有更优解",
-          "tw": "「反其道而思之」，可能有更優解",
-          "ko": "\"그 길과 반대로 생각하면\" 더 나은 해결책이 있을 수 있다",
-          "ja": "「その道と逆に考える」と、より良い解決策があるかもしれない",
-          "en": "\"Think the opposite way\", may find better solution"
-        },
-        "id": "sparkly-19"
-      },
-      {
-        "title": {
-          "cn": "辩证思维",
-          "tw": "辯證思維",
-          "ko": "변증법적 사고",
-          "ja": "弁証法的思考",
-          "en": "Dialectical Thinking"
-        },
-        "subtitle": {
-          "cn": "看到事物的两面性，福祸相依",
-          "tw": "看到事物的兩面性，福禍相依",
-          "ko": "사물의 양면성을 보고, 복과 화가 서로 의지한다",
-          "ja": "物事の両面性を見て、福と禍は互いに依存する",
-          "en": "See both sides of things; fortune and misfortune coexist"
-        },
-        "id": "sparkly-20"
-      },
-      {
-        "title": {
-          "cn": "周期思维",
-          "tw": "週期思維",
-          "ko": "주기 사고",
-          "ja": "周期思考",
-          "en": "Cycle Thinking"
-        },
-        "subtitle": {
-          "cn": "万物有周期，低谷时别慌，会慢慢上来的",
-          "tw": "萬物有週期，低谷時別慌，會慢慢上來的",
-          "ko": "만물에는 주기가 있으며, 저점일 때 당황하지 말고 천천히 올라올 것이다",
-          "ja": "万物には周期があり、底の時は慌てず、ゆっくり上がってくる",
-          "en": "Everything has cycles; don't panic at lows, will slowly rise"
-        },
-        "id": "sparkly-21"
-      },
-      {
-        "title": {
-          "cn": "奥卡姆剃刀",
-          "tw": "奧卡姆剃刀",
-          "ko": "오컴의 면도날",
-          "ja": "オッカムの剃刀",
-          "en": "Occam's Razor"
-        },
-        "subtitle": {
-          "cn": "把复杂事情简单化，往往最接近成功",
-          "tw": "把複雜事情簡單化，往往最接近成功",
-          "ko": "복잡한 일을 단순화하면 종종 성공에 가장 가까워진다",
-          "ja": "複雑なことを単純化すると、しばしば成功に最も近づく",
-          "en": "Simplify complex matters, often closest to success"
-        },
-        "id": "sparkly-22"
-      },
-      {
-        "title": {
-          "cn": "灰犀牛思维",
-          "tw": "灰犀牛思維",
-          "ko": "회색 코뿔소 사고",
-          "ja": "グレーサイの思考",
-          "en": "Gray Rhino Thinking"
-        },
-        "subtitle": {
-          "cn": "警惕明显却被忽视的重大风险，并主动预防",
-          "tw": "警惕明顯卻被忽視的重大風險，並主動預防",
-          "ko": "명백하지만 무시되는 중대한 위험을 경계하고 적극적으로 예방하라",
-          "ja": "明らかだが無視される重大なリスクに警戒し、積極的に予防する",
-          "en": "Beware obvious but ignored major risks, actively prevent them"
-        },
-        "id": "sparkly-23"
-      },
-      {
-        "title": {
-          "cn": "墨菲定律",
-          "tw": "墨菲定律",
-          "ko": "머피의 법칙",
-          "ja": "マーフィーの法則",
-          "en": "Murphy's Law"
-        },
-        "subtitle": {
-          "cn": "可能出错的事总会出错，提前做好预案",
-          "tw": "可能出錯的事總會出錯，提前做好預案",
-          "ko": "잘못될 수 있는 일은 항상 잘못되므로, 미리 계획을 세워라",
-          "ja": "間違う可能性のあることは必ず間違うので、事前に計画を立てる",
-          "en": "What can go wrong will go wrong; prepare plans in advance"
-        },
-        "id": "sparkly-24"
-      },
-      {
-        "title": {
-          "cn": "多元视角",
-          "tw": "多元視角",
-          "ko": "다원적 시각",
-          "ja": "多元的視点",
-          "en": "Multiple Perspectives"
-        },
-        "subtitle": {
-          "cn": "同一件事，换个角度看，结论可能不一样",
-          "tw": "同一件事，換個角度看，結論可能不一樣",
-          "ko": "같은 일도 각도를 바꿔 보면 결론이 다를 수 있다",
-          "ja": "同じことでも、角度を変えて見ると結論が異なるかもしれない",
-          "en": "Same thing, different angle, conclusion may differ"
-        },
-        "id": "sparkly-25"
-      },
-      {
-        "title": {
-          "cn": "能力圈",
-          "tw": "能力圈",
-          "ko": "능력권",
-          "ja": "能力圏",
-          "en": "Circle of Competence"
-        },
-        "subtitle": {
-          "cn": "清楚自己懂什么不懂什么，在能力范围内行事",
-          "tw": "清楚自己懂什麼不懂什麼，在能力範圍內行事",
-          "ko": "자신이 무엇을 알고 무엇을 모르는지 명확히 하고, 능력 범위 내에서 행동하라",
-          "ja": "自分が何を知り何を知らないかを明確にし、能力範囲内で行動する",
-          "en": "Know what you know and don't know; act within your competence"
-        },
-        "id": "sparkly-26"
-      },
-      {
-        "title": {
-          "cn": "风险思维",
-          "tw": "風險思維",
-          "ko": "위험 사고",
-          "ja": "リスク思考",
-          "en": "Risk Thinking"
-        },
-        "subtitle": {
-          "cn": "做决定前，先想\"最坏的结果能接受吗\"",
-          "tw": "做決定前，先想「最壞的結果能接受嗎」",
-          "ko": "결정하기 전에 \"최악의 결과를 받아들일 수 있는가\"를 먼저 생각하라",
-          "ja": "決定する前に、「最悪の結果を受け入れられるか」をまず考える",
-          "en": "Before deciding, think \"can I accept the worst outcome\""
-        },
-        "id": "sparkly-27"
-      },
-      {
-        "title": {
-          "cn": "趋势思维",
-          "tw": "趨勢思維",
-          "ko": "추세 사고",
-          "ja": "トレンド思考",
-          "en": "Trend Thinking"
-        },
-        "subtitle": {
-          "cn": "看看大家都在往哪走，顺着趋势走省力",
-          "tw": "看看大家都在往哪走，順著趨勢走省力",
-          "ko": "모두가 어디로 가는지 보고, 추세를 따라가면 힘이 덜 든다",
-          "ja": "みんながどこへ向かっているかを見て、トレンドに沿って進めば省力",
-          "en": "See where everyone is going, follow the trend to save effort"
-        },
-        "id": "sparkly-28"
-      },
-      {
-        "title": {
-          "cn": "概率思维",
-          "tw": "概率思維",
-          "ko": "확률 사고",
-          "ja": "確率思考",
-          "en": "Probability Thinking"
-        },
-        "subtitle": {
-          "cn": "别求\"一定成\"，多做大概率赢的事",
-          "tw": "別求「一定成」，多做大概率贏的事",
-          "ko": "\"반드시 성공\"을 구하지 말고, 승률이 높은 일을 많이 하라",
-          "ja": "「必ず成功」を求めず、勝率の高いことを多くする",
-          "en": "Don't seek \"guaranteed success\", do more high-probability wins"
-        },
-        "id": "sparkly-29"
-      },
-      {
-        "title": {
-          "cn": "批判性思维",
-          "tw": "批判性思維",
-          "ko": "비판적 사고",
-          "ja": "批判的思考",
-          "en": "Critical Thinking"
-        },
-        "subtitle": {
-          "cn": "质疑信息，分析证据，独立思考，不盲从",
-          "tw": "質疑資訊，分析證據，獨立思考，不盲從",
-          "ko": "정보를 의심하고, 증거를 분석하며, 독립적으로 사고하고, 맹목적으로 따르지 않는다",
-          "ja": "情報を疑い、証拠を分析し、独立して思考し、盲目的に従わない",
-          "en": "Question information, analyze evidence, think independently, don't follow blindly"
-        },
-        "id": "sparkly-30"
-      },
-      {
-        "title": {
-          "cn": "第一性原理",
-          "tw": "第一性原理",
-          "ko": "제1원리",
-          "ja": "第一原理",
-          "en": "First Principles"
-        },
-        "subtitle": {
-          "cn": "抛开表象，回归事物最基本的事实思考",
-          "tw": "拋開表象，回歸事物最基本的事實思考",
-          "ko": "표상을 버리고 사물의 가장 기본적인 사실로 돌아가 사고하라",
-          "ja": "表象を捨て、物事の最も基本的な事実に戻って思考する",
-          "en": "Set aside appearances, return to most basic facts of things"
-        },
-        "id": "sparkly-31"
-      },
-      {
-        "title": {
-          "cn": "空杯心态",
-          "tw": "空杯心態",
-          "ko": "빈 잔 마음가짐",
-          "ja": "空の杯の心構え",
-          "en": "Empty Cup Mindset"
-        },
-        "subtitle": {
-          "cn": "保持开放，虚心学习，不自满不固执",
-          "tw": "保持開放，虛心學習，不自滿不固執",
-          "ko": "개방을 유지하고, 겸손하게 배우며, 자만하지 않고 고집하지 않는다",
-          "ja": "開放を保ち、謙虚に学び、自満せず固執しない",
-          "en": "Stay open, learn humbly, don't be complacent or stubborn"
-        },
-        "id": "sparkly-32"
-      },
-      {
-        "title": {
-          "cn": "主动思维",
-          "tw": "主動思維",
-          "ko": "적극적 사고",
-          "ja": "積極的思考",
-          "en": "Proactive Thinking"
-        },
-        "subtitle": {
-          "cn": "机会不会等你，想要就自己伸手",
-          "tw": "機會不會等你，想要就自己伸手",
-          "ko": "기회는 당신을 기다리지 않으니, 원하면 자신이 손을 뻗어라",
-          "ja": "機会は待ってくれない、欲しければ自分で手を伸ばす",
-          "en": "Opportunities won't wait; if you want it, reach out yourself"
-        },
-        "id": "sparkly-33"
-      },
-      {
-        "title": {
-          "cn": "清醒思维",
-          "tw": "清醒思維",
-          "ko": "냉정한 사고",
-          "ja": "冷静な思考",
-          "en": "Clear Thinking"
-        },
-        "subtitle": {
-          "cn": "别被表扬冲昏头，也别被批评打垮",
-          "tw": "別被表揚沖昏頭，也別被批評打垮",
-          "ko": "칭찬에 취하지 말고, 비판에 무너지지도 말라",
-          "ja": "褒められて有頂天にならず、批判されて打ちのめされない",
-          "en": "Don't get carried away by praise, don't be crushed by criticism"
-        },
-        "id": "sparkly-34"
-      },
-      {
-        "title": {
-          "cn": "钝感力",
-          "tw": "鈍感力",
-          "ko": "둔감력",
-          "ja": "鈍感力",
-          "en": "Insensitivity Power"
-        },
-        "subtitle": {
-          "cn": "对小事别太敏感，钝一点更轻松",
-          "tw": "對小事別太敏感，鈍一點更輕鬆",
-          "ko": "작은 일에 너무 민감하지 말고, 둔감하게 하는 것이 더 편하다",
-          "ja": "小さなことに敏感になりすぎず、鈍感な方が楽",
-          "en": "Don't be too sensitive to small things; being insensitive is easier"
-        },
-        "id": "sparkly-35"
-      },
-      {
-        "title": {
-          "cn": "节奏思维",
-          "tw": "節奏思維",
-          "ko": "리듬 사고",
-          "ja": "リズム思考",
-          "en": "Rhythm Thinking"
-        },
-        "subtitle": {
-          "cn": "别跟他人比速度，找到自己的节奏",
-          "tw": "別跟他人比速度，找到自己的節奏",
-          "ko": "다른 사람과 속도를 비교하지 말고, 자신의 리듬을 찾아라",
-          "ja": "他人と速度を比べず、自分のリズムを見つける",
-          "en": "Don't compare speed with others, find your own rhythm"
-        },
-        "id": "sparkly-36"
-      },
-      {
-        "title": {
-          "cn": "容错思维",
-          "tw": "容錯思維",
-          "ko": "오류 허용 사고",
-          "ja": "エラー許容思考",
-          "en": "Error Tolerance"
-        },
-        "subtitle": {
-          "cn": "允许自己犯错，重点是下次改",
-          "tw": "允許自己犯錯，重點是下次改",
-          "ko": "자신이 실수하는 것을 허용하되, 중요한 것은 다음에 고치는 것이다",
-          "ja": "自分が間違いを犯すことを許し、重要なのは次に改めること",
-          "en": "Allow yourself to make mistakes; focus is correcting next time"
-        },
-        "id": "sparkly-37"
-      },
-      {
-        "title": {
-          "cn": "感恩心态",
-          "tw": "感恩心態",
-          "ko": "감사 마음가짐",
-          "ja": "感謝の心構え",
-          "en": "Gratitude Mindset"
-        },
-        "subtitle": {
-          "cn": "常怀感激，关注已有，提升幸福感",
-          "tw": "常懷感激，關注已有，提升幸福感",
-          "ko": "항상 감사하며, 이미 가진 것에 주목하고, 행복감을 높인다",
-          "ja": "常に感謝し、既にあるものに注目し、幸福感を高める",
-          "en": "Always be grateful, focus on what you have, boost happiness"
-        },
-        "id": "sparkly-38"
-      },
-      {
-        "title": {
-          "cn": "自我效能感",
-          "tw": "自我效能感",
-          "ko": "자기 효능감",
-          "ja": "自己効力感",
-          "en": "Self Efficacy"
-        },
-        "subtitle": {
-          "cn": "相信自己有能力完成特定任务",
-          "tw": "相信自己有能力完成特定任務",
-          "ko": "자신이 특정 작업을 완성할 수 있는 능력이 있다고 믿는다",
-          "ja": "自分が特定のタスクを完了する能力があると信じる",
-          "en": "Believe you have the ability to complete specific tasks"
-        },
-        "id": "sparkly-39"
-      },
-      {
-        "title": {
-          "cn": "保持好奇心",
-          "tw": "保持好奇心",
-          "ko": "호기심 유지",
-          "ja": "好奇心を保つ",
-          "en": "Stay Curious"
-        },
-        "subtitle": {
-          "cn": "对世界保持开放和探索的欲望",
-          "tw": "對世界保持開放和探索的慾望",
-          "ko": "세계에 대해 개방적이고 탐구하는 욕구를 유지한다",
-          "ja": "世界に対して開放と探求の欲望を保つ",
-          "en": "Maintain open and exploratory desire for the world"
-        },
-        "id": "sparkly-40"
-      },
-      {
-        "title": {
-          "cn": "乐观主义",
-          "tw": "樂觀主義",
-          "ko": "낙관주의",
-          "ja": "楽観主義",
-          "en": "Optimism"
-        },
-        "subtitle": {
-          "cn": "相信未来会更好，积极面对困难",
-          "tw": "相信未來會更好，積極面對困難",
-          "ko": "미래가 더 나아질 것이라고 믿고, 어려움에 적극적으로 대면한다",
-          "ja": "未来がより良くなると信じ、困難に積極的に向き合う",
-          "en": "Believe future will be better, face difficulties positively"
-        },
-        "id": "sparkly-41"
-      },
-      {
-        "title": {
-          "cn": "内观思维",
-          "tw": "內觀思維",
-          "ko": "내관 사고",
-          "ja": "内観思考",
-          "en": "Introspection"
-        },
-        "subtitle": {
-          "cn": "烦躁时先问自己：我到底在纠结啥",
-          "tw": "煩躁時先問自己：我到底在糾結啥",
-          "ko": "초조할 때 먼저 자신에게 물어라: 나는 도대체 무엇에 고민하고 있는가",
-          "ja": "イライラした時、まず自分に問う：私は一体何に悩んでいるのか",
-          "en": "When restless, first ask yourself: what am I really stuck on"
-        },
-        "id": "sparkly-42"
-      },
-      {
-        "title": {
-          "cn": "延迟满足",
-          "tw": "延遲滿足",
-          "ko": "만족 지연",
-          "ja": "満足の遅延",
-          "en": "Delayed Gratification"
-        },
-        "subtitle": {
-          "cn": "克制即时欲望，为长远更大回报忍耐",
-          "tw": "克制即時慾望，為長遠更大回報忍耐",
-          "ko": "즉각적인 욕구를 억제하고, 장기적으로 더 큰 보상을 위해 참는다",
-          "ja": "即座の欲望を抑制し、長期的により大きな報酬のために耐える",
-          "en": "Restrain immediate desires, endure for greater long-term returns"
-        },
-        "id": "sparkly-43"
-      },
-      {
-        "title": {
-          "cn": "自我关怀",
-          "tw": "自我關懷",
-          "ko": "자기 돌봄",
-          "ja": "自己ケア",
-          "en": "Self Compassion"
-        },
-        "subtitle": {
-          "cn": "像对待好朋友一样善待和理解自己",
-          "tw": "像對待好朋友一樣善待和理解自己",
-          "ko": "좋은 친구를 대하듯 자신을 친절하게 대하고 이해하라",
-          "ja": "親しい友人を扱うように自分を優しく扱い理解する",
-          "en": "Treat and understand yourself like a good friend"
-        },
-        "id": "sparkly-44"
-      },
-      {
-        "title": {
-          "cn": "接纳自我",
-          "tw": "接納自我",
-          "ko": "자기 수용",
-          "ja": "自己受容",
-          "en": "Self Acceptance"
-        },
-        "subtitle": {
-          "cn": "接受自己的不完美，才能慢慢变完美",
-          "tw": "接受自己的不完美，才能慢慢變完美",
-          "ko": "자신의 불완전함을 받아들여야 천천히 완벽해질 수 있다",
-          "ja": "自分の不完全さを受け入れてこそ、ゆっくり完璧になれる",
-          "en": "Accept your imperfections to gradually become perfect"
-        },
-        "id": "sparkly-45"
-      },
-      {
-        "title": {
-          "cn": "归零思维",
-          "tw": "歸零思維",
-          "ko": "제로 사고",
-          "ja": "ゼロ思考",
-          "en": "Reset Thinking"
-        },
-        "subtitle": {
-          "cn": "过去的成绩别常挂嘴边，随时重新开始",
-          "tw": "過去的成績別常掛嘴邊，隨時重新開始",
-          "ko": "과거의 성과를 항상 입에 올리지 말고, 언제든지 다시 시작하라",
-          "ja": "過去の成績を常に口にせず、いつでも再スタートする",
-          "en": "Don't always mention past achievements; restart anytime"
-        },
-        "id": "sparkly-46"
-      },
-      {
-        "title": {
-          "cn": "正念当下",
-          "tw": "正念當下",
-          "ko": "마음챙김 현재",
-          "ja": "マインドフルネス現在",
-          "en": "Mindful Present"
-        },
-        "subtitle": {
-          "cn": "专注感受当下，不纠结、不焦虑过去和未来",
-          "tw": "專注感受當下，不糾結、不焦慮過去和未來",
-          "ko": "현재에 집중하고 느끼며, 과거와 미래에 고민하거나 불안해하지 않는다",
-          "ja": "現在に集中して感じ、過去と未来に悩まず不安にならない",
-          "en": "Focus on feeling the present, don't worry about past or future"
-        },
-        "id": "sparkly-47"
-      },
-      {
-        "title": {
-          "cn": "课题分离",
-          "tw": "課題分離",
-          "ko": "과제 분리",
-          "ja": "課題分離",
-          "en": "Separate Concerns"
-        },
-        "subtitle": {
-          "cn": "分清自己的事和他人的事，各管各的不瞎操心",
-          "tw": "分清自己的事和他人的事，各管各的不瞎操心",
-          "ko": "자신의 일과 타인의 일을 구분하고, 각자 자신의 일을 관리하며 불필요하게 걱정하지 않는다",
-          "ja": "自分のことと他人のことを区別し、それぞれ自分のことを管理し、無駄に心配しない",
-          "en": "Distinguish your matters from others'; each manages their own, don't worry unnecessarily"
-        },
-        "id": "sparkly-48"
-      },
-      {
-        "title": {
-          "cn": "建立信任",
-          "tw": "建立信任",
-          "ko": "신뢰 구축",
-          "ja": "信頼構築",
-          "en": "Build Trust"
-        },
-        "subtitle": {
-          "cn": "言行一致，可靠守信，是人际基础",
-          "tw": "言行一致，可靠守信，是人際基礎",
-          "ko": "언행일치하고, 신뢰할 수 있고 약속을 지키는 것이 인간관계의 기초다",
-          "ja": "言行一致し、信頼でき約束を守ることが人間関係の基礎",
-          "en": "Match words with actions, be reliable and trustworthy; foundation of relationships"
-        },
-        "id": "sparkly-49"
-      },
-      {
-        "title": {
-          "cn": "处理冲突",
-          "tw": "處理衝突",
-          "ko": "갈등 처리",
-          "ja": "衝突処理",
-          "en": "Handle Conflict"
-        },
-        "subtitle": {
-          "cn": "以解决问题为目标，而非争输赢",
-          "tw": "以解決問題為目標，而非爭輸贏",
-          "ko": "승패를 다투기보다는 문제 해결을 목표로 한다",
-          "ja": "勝敗を争うのではなく、問題解決を目標とする",
-          "en": "Aim to solve problems, not to win or lose"
-        },
-        "id": "sparkly-50"
-      },
-      {
-        "title": {
-          "cn": "有效反馈",
-          "tw": "有效反饋",
-          "ko": "효과적 피드백",
-          "ja": "効果的フィードバック",
-          "en": "Effective Feedback"
-        },
-        "subtitle": {
-          "cn": "给予具体、及时、建设性的意见",
-          "tw": "給予具體、及時、建設性的意見",
-          "ko": "구체적이고, 시기적절하며, 건설적인 의견을 제시한다",
-          "ja": "具体的で、適時で、建設的な意見を与える",
-          "en": "Give specific, timely, constructive feedback"
-        },
-        "id": "sparkly-51"
-      },
-      {
-        "title": {
-          "cn": "给予者心态",
-          "tw": "給予者心態",
-          "ko": "주는 사람 마음가짐",
-          "ja": "与える者の心構え",
-          "en": "Giver Mindset"
-        },
-        "subtitle": {
-          "cn": "乐于分享知识、资源、帮助，建立信任",
-          "tw": "樂於分享知識、資源、幫助，建立信任",
-          "ko": "지식, 자원, 도움을 기꺼이 공유하고 신뢰를 구축한다",
-          "ja": "知識、資源、助けを喜んで共有し、信頼を築く",
-          "en": "Willingly share knowledge, resources, help; build trust"
-        },
-        "id": "sparkly-52"
-      },
-      {
-        "title": {
-          "cn": "影响力",
-          "tw": "影響力",
-          "ko": "영향력",
-          "ja": "影響力",
-          "en": "Influence"
-        },
-        "subtitle": {
-          "cn": "通过专业、信誉和沟通有效说服他人",
-          "tw": "通過專業、信譽和溝通有效說服他人",
-          "ko": "전문성, 신뢰성, 소통을 통해 타인을 효과적으로 설득한다",
-          "ja": "専門性、信頼性、コミュニケーションを通じて他人を効果的に説得する",
-          "en": "Effectively persuade others through expertise, credibility, and communication"
-        },
-        "id": "sparkly-53"
-      },
-      {
-        "title": {
-          "cn": "主动倾听",
-          "tw": "主動傾聽",
-          "ko": "적극적 경청",
-          "ja": "積極的傾聴",
-          "en": "Active Listening"
-        },
-        "subtitle": {
-          "cn": "少打断别人，多听比多说更受欢迎",
-          "tw": "少打斷別人，多聽比多說更受歡迎",
-          "ko": "다른 사람을 방해하지 말고, 많이 듣는 것이 많이 말하는 것보다 더 환영받는다",
-          "ja": "他人を遮らず、多く聞くことは多く話すことより歓迎される",
-          "en": "Interrupt less; listening more is more welcome than talking more"
-        },
-        "id": "sparkly-54"
-      },
-      {
-        "title": {
-          "cn": "双赢思维",
-          "tw": "雙贏思維",
-          "ko": "윈윈 사고",
-          "ja": "ウィンウィン思考",
-          "en": "Win Win Thinking"
-        },
-        "subtitle": {
-          "cn": "寻求互惠互利的解决方案",
-          "tw": "尋求互惠互利的解決方案",
-          "ko": "상호 이익이 되는 해결책을 찾는다",
-          "ja": "相互利益のある解決策を求める",
-          "en": "Seek mutually beneficial solutions"
-        },
-        "id": "sparkly-55"
-      },
-      {
-        "title": {
-          "cn": "同理心",
-          "tw": "同理心",
-          "ko": "공감",
-          "ja": "共感",
-          "en": "Empathy"
-        },
-        "subtitle": {
-          "cn": "设身处地理解他人的感受和想法",
-          "tw": "設身處地理解他人的感受和想法",
-          "ko": "타인의 입장에서 타인의 감정과 생각을 이해한다",
-          "ja": "他人の立場に立って他人の感情と考えを理解する",
-          "en": "Understand others' feelings and thoughts from their perspective"
-        },
-        "id": "sparkly-56"
-      },
-      {
-        "title": {
-          "cn": "合作思维",
-          "tw": "合作思維",
-          "ko": "협력 사고",
-          "ja": "協力思考",
-          "en": "Collaboration Thinking"
-        },
-        "subtitle": {
-          "cn": "协作比单打独斗更能创造更大的价值",
-          "tw": "協作比單打獨鬥更能創造更大的價值",
-          "ko": "협력이 혼자 하는 것보다 더 큰 가치를 창조할 수 있다",
-          "ja": "協力は一人で戦うより大きな価値を創造できる",
-          "en": "Collaboration creates greater value than going alone"
-        },
-        "id": "sparkly-57"
-      },
-      {
-        "title": {
-          "cn": "管理期望",
-          "tw": "管理期望",
-          "ko": "기대 관리",
-          "ja": "期待管理",
-          "en": "Manage Expectations"
-        },
-        "subtitle": {
-          "cn": "清晰沟通目标和预期，避免误解和失望",
-          "tw": "清晰溝通目標和預期，避免誤解和失望",
-          "ko": "목표와 기대를 명확히 소통하여 오해와 실망을 피한다",
-          "ja": "目標と期待を明確にコミュニケーションし、誤解と失望を避ける",
-          "en": "Clearly communicate goals and expectations to avoid misunderstanding and disappointment"
-        },
-        "id": "sparkly-58"
-      },
-      {
-        "title": {
-          "cn": "建立人脉",
-          "tw": "建立人脈",
-          "ko": "인맥 구축",
-          "ja": "人脈構築",
-          "en": "Build Network"
-        },
-        "subtitle": {
-          "cn": "维护有价值的关系网络，互惠互助",
-          "tw": "維護有價值的關係網絡，互惠互助",
-          "ko": "가치 있는 관계 네트워크를 유지하고 상호 이익과 도움을 제공한다",
-          "ja": "価値のある関係ネットワークを維持し、相互利益と助け合い",
-          "en": "Maintain valuable relationship network, mutual benefit and help"
-        },
-        "id": "sparkly-59"
-      },
-      {
-        "title": {
-          "cn": "赞美与认可",
-          "tw": "讚美與認可",
-          "ko": "칭찬과 인정",
-          "ja": "称賛と認可",
-          "en": "Praise Recognition"
-        },
-        "subtitle": {
-          "cn": "真诚地欣赏和肯定他人的贡献和优点",
-          "tw": "真誠地欣賞和肯定他人的貢獻和優點",
-          "ko": "진심으로 타인의 기여와 장점을 감상하고 인정한다",
-          "ja": "心から他人の貢献と長所を賞賛し肯定する",
-          "en": "Sincerely appreciate and acknowledge others' contributions and strengths"
-        },
-        "id": "sparkly-60"
-      },
-      {
-        "title": {
-          "cn": "边界意识",
-          "tw": "邊界意識",
-          "ko": "경계 의식",
-          "ja": "境界意識",
-          "en": "Boundary Awareness"
-        },
-        "subtitle": {
-          "cn": "别总麻烦他人，也别让他人随便麻烦你",
-          "tw": "別總麻煩他人，也別讓他人隨便麻煩你",
-          "ko": "항상 다른 사람을 귀찮게 하지 말고, 다른 사람이 당신을 함부로 귀찮게 하지 않게 하라",
-          "ja": "常に他人を煩わせず、他人に自分を勝手に煩わせさせない",
-          "en": "Don't always trouble others, don't let others trouble you casually"
-        },
-        "id": "sparkly-61"
-      },
-      {
-        "title": {
-          "cn": "换位思考",
-          "tw": "換位思考",
-          "ko": "입장 바꿔 생각하기",
-          "ja": "立場を変えて考える",
-          "en": "Perspective Taking"
-        },
-        "subtitle": {
-          "cn": "站在对方角度看问题，理解立场和动机",
-          "tw": "站在對方角度看問題，理解立場和動機",
-          "ko": "상대방의 입장에서 문제를 보고, 입장과 동기를 이해한다",
-          "ja": "相手の立場から問題を見て、立場と動機を理解する",
-          "en": "See problems from others' perspective, understand their position and motives"
-        },
-        "id": "sparkly-62"
-      },
-      {
-        "title": {
-          "cn": "求同存异",
-          "tw": "求同存異",
-          "ko": "동이를 구하고 이이를 존중",
-          "ja": "同を求め異を存す",
-          "en": "Seek Common Ground"
-        },
-        "subtitle": {
-          "cn": "在分歧中寻找共同点，尊重不同观点",
-          "tw": "在分歧中尋找共同點，尊重不同觀點",
-          "ko": "분歧 속에서 공통점을 찾고, 다른 관점을 존중한다",
-          "ja": "意見の相違の中で共通点を見つけ、異なる視点を尊重する",
-          "en": "Find common ground in disagreements, respect different views"
-        },
-        "id": "sparkly-63"
-      },
-      {
-        "title": {
-          "cn": "非暴力沟通",
-          "tw": "非暴力溝通",
-          "ko": "비폭력 소통",
-          "ja": "非暴力コミュニケーション",
-          "en": "Nonviolent Communication"
-        },
-        "subtitle": {
-          "cn": "清晰表达自己的感受和需求等，减少冲突",
-          "tw": "清晰表達自己的感受和需求等，減少衝突",
-          "ko": "자신의 감정과 요구 등을 명확히 표현하여 갈등을 줄인다",
-          "ja": "自分の感情とニーズなどを明確に表現し、衝突を減らす",
-          "en": "Clearly express your feelings and needs to reduce conflict"
-        },
-        "id": "sparkly-64"
-      },
-      {
-        "title": {
-          "cn": "讲故事能力",
-          "tw": "講故事能力",
-          "ko": "스토리텔링 능력",
-          "ja": "ストーリーテリング能力",
-          "en": "Storytelling Skill"
-        },
-        "subtitle": {
-          "cn": "用故事传递情感和价值观，或许更有感染力",
-          "tw": "用故事傳遞情感和價值觀，或許更有感染力",
-          "ko": "이야기로 감정과 가치관을 전달하면 더 감동적일 수 있다",
-          "ja": "物語で感情と価値観を伝えると、より感動的かもしれない",
-          "en": "Use stories to convey emotions and values, perhaps more impactful"
-        },
-        "id": "sparkly-65"
-      },
-      {
-        "title": {
-          "cn": "终身学习",
-          "tw": "終身學習",
-          "ko": "평생 학습",
-          "ja": "生涯学習",
-          "en": "Lifelong Learning"
-        },
-        "subtitle": {
-          "cn": "保持持续学习的热情和习惯",
-          "tw": "保持持續學習的熱情和習慣",
-          "ko": "지속적인 학습의 열정과 습관을 유지한다",
-          "ja": "継続的な学習の情熱と習慣を保つ",
-          "en": "Maintain passion and habit of continuous learning"
-        },
-        "id": "sparkly-66"
-      },
-      {
-        "title": {
-          "cn": "试错迭代",
-          "tw": "試錯迭代",
-          "ko": "시행착오 반복",
-          "ja": "試行錯誤の反復",
-          "en": "Trial Error Iterate"
-        },
-        "subtitle": {
-          "cn": "过去的想法可能错了，别怕推翻自己",
-          "tw": "過去的想法可能錯了，別怕推翻自己",
-          "ko": "과거의 생각이 틀렸을 수 있으니, 자신을 뒤집는 것을 두려워하지 말라",
-          "ja": "過去の考えが間違っていたかもしれない、自分を覆すことを恐れない",
-          "en": "Past thoughts may be wrong; don't fear overturning yourself"
-        },
-        "id": "sparkly-67"
-      },
-      {
-        "title": {
-          "cn": "知识迁移",
-          "tw": "知識遷移",
-          "ko": "지식 전이",
-          "ja": "知識移転",
-          "en": "Knowledge Transfer"
-        },
-        "subtitle": {
-          "cn": "将学到的知识应用到新情境中",
-          "tw": "將學到的知識應用到新情境中",
-          "ko": "배운 지식을 새로운 상황에 적용한다",
-          "ja": "学んだ知識を新しい状況に適用する",
-          "en": "Apply learned knowledge to new situations"
-        },
-        "id": "sparkly-68"
-      },
-      {
-        "title": {
-          "cn": "简化思维",
-          "tw": "簡化思維",
-          "ko": "단순화 사고",
-          "ja": "簡素化思考",
-          "en": "Simplify Thinking"
-        },
-        "subtitle": {
-          "cn": "去除冗余，抓住核心，让复杂变简单",
-          "tw": "去除冗餘，抓住核心，讓複雜變簡單",
-          "ko": "여유를 제거하고 핵심을 잡아 복잡함을 단순하게 만든다",
-          "ja": "冗長を除去し、核心を捉え、複雑を単純にする",
-          "en": "Remove redundancy, grasp core, make complex simple"
-        },
-        "id": "sparkly-69"
-      },
-      {
-        "title": {
-          "cn": "模式识别",
-          "tw": "模式識別",
-          "ko": "패턴 인식",
-          "ja": "パターン認識",
-          "en": "Pattern Recognition"
-        },
-        "subtitle": {
-          "cn": "从经验或数据中发现重复出现的规律",
-          "tw": "從經驗或數據中發現重複出現的規律",
-          "ko": "경험이나 데이터에서 반복적으로 나타나는 규칙을 발견한다",
-          "ja": "経験やデータから繰り返し現れる法則を発見する",
-          "en": "Discover recurring patterns from experience or data"
-        },
-        "id": "sparkly-70"
-      },
-      {
-        "title": {
-          "cn": "跨界思维",
-          "tw": "跨界思維",
-          "ko": "크로스오버 사고",
-          "ja": "クロスオーバー思考",
-          "en": "Cross Domain Thinking"
-        },
-        "subtitle": {
-          "cn": "借鉴不同领域的知识和方法，激发创新",
-          "tw": "借鑑不同領域的知識和方法，激發創新",
-          "ko": "다른 분야의 지식과 방법을 참고하여 혁신을 자극한다",
-          "ja": "異なる分野の知識と方法を参考にし、革新を刺激する",
-          "en": "Learn from different fields' knowledge and methods to spark innovation"
-        },
-        "id": "sparkly-71"
-      },
-      {
-        "title": {
-          "cn": "刻意好奇",
-          "tw": "刻意好奇",
-          "ko": "의도적 호기심",
-          "ja": "意図的好奇心",
-          "en": "Deliberate Curiosity"
-        },
-        "subtitle": {
-          "cn": "主动提问\"为什么\"、\"如果.会怎样\"",
-          "tw": "主動提問「為什麼」、「如果.會怎樣」",
-          "ko": "적극적으로 \"왜\", \"만약...하면 어떻게 될까\"를 질문한다",
-          "ja": "積極的に「なぜ」「もし...ならどうなるか」を質問する",
-          "en": "Actively ask \"why\" and \"what if\""
-        },
-        "id": "sparkly-72"
-      },
-      {
-        "title": {
-          "cn": "成长思维",
-          "tw": "成長思維",
-          "ko": "성장 사고",
-          "ja": "成長思考",
-          "en": "Growth Mindset"
-        },
-        "subtitle": {
-          "cn": "遇到难的事，别想\"我不行\"，想\"我能学到啥\"",
-          "tw": "遇到難的事，別想「我不行」，想「我能學到啥」",
-          "ko": "어려운 일을 만나면 \"나는 안 돼\"라고 생각하지 말고 \"내가 무엇을 배울 수 있을까\"라고 생각하라",
-          "ja": "難しいことに出会ったら「私には無理」ではなく「何を学べるか」を考える",
-          "en": "When facing difficulties, don't think \"I can't\", think \"what can I learn\""
-        },
-        "id": "sparkly-73"
-      },
-      {
-        "title": {
-          "cn": "关联思维",
-          "tw": "關聯思維",
-          "ko": "연관 사고",
-          "ja": "関連思考",
-          "en": "Associative Thinking"
-        },
-        "subtitle": {
-          "cn": "这件事和那件事有啥关系？多找找联系",
-          "tw": "這件事和那件事有啥關係？多找找聯繫",
-          "ko": "이 일과 그 일은 무슨 관계가 있는가? 연관성을 많이 찾아보라",
-          "ja": "このこととあのことはどんな関係があるか？関連性を多く見つける",
-          "en": "What's the relationship between this and that? Find more connections"
-        },
-        "id": "sparkly-74"
-      },
-      {
-        "title": {
-          "cn": "分散思维",
-          "tw": "分散思維",
-          "ko": "분산 사고",
-          "ja": "分散思考",
-          "en": "Diversification"
-        },
-        "subtitle": {
-          "cn": "钱分投多处，降低单一风险",
-          "tw": "錢分投多處，降低單一風險",
-          "ko": "돈을 여러 곳에 나누어 투자하여 단일 위험을 낮춘다",
-          "ja": "お金を複数箇所に分散投資し、単一リスクを下げる",
-          "en": "Spread money across multiple places to reduce single risk"
-        },
-        "id": "sparkly-75"
-      },
-      {
-        "title": {
-          "cn": "刚需思维",
-          "tw": "剛需思維",
-          "ko": "필수 수요 사고",
-          "ja": "必須需要思考",
-          "en": "Essential Need Thinking"
-        },
-        "subtitle": {
-          "cn": "投人们必需的领域，需求稳",
-          "tw": "投人們必需的領域，需求穩",
-          "ko": "사람들이 반드시 필요한 분야에 투자하면 수요가 안정적이다",
-          "ja": "人々が必ず必要とする分野に投資すれば、需要は安定",
-          "en": "Invest in essential fields; demand is stable"
-        },
-        "id": "sparkly-76"
-      },
-      {
-        "title": {
-          "cn": "止损思维",
-          "tw": "止損思維",
-          "ko": "손절 사고",
-          "ja": "損切り思考",
-          "en": "Stop Loss Thinking"
-        },
-        "subtitle": {
-          "cn": "亏到预设线就撤，保住本金",
-          "tw": "虧到預設線就撤，保住本金",
-          "ko": "설정한 선까지 손실이 나면 철수하여 원금을 보존한다",
-          "ja": "設定した線まで損失が出たら撤退し、元本を保護する",
-          "en": "Withdraw when loss reaches preset line to preserve principal"
-        },
-        "id": "sparkly-77"
-      },
-      {
-        "title": {
-          "cn": "杠杆警惕",
-          "tw": "槓桿警惕",
-          "ko": "레버리지 경계",
-          "ja": "レバレッジ警戒",
-          "en": "Leverage Caution"
-        },
-        "subtitle": {
-          "cn": "少借钱投资，避免亏光",
-          "tw": "少借錢投資，避免虧光",
-          "ko": "돈을 적게 빌려 투자하여 전액 손실을 피한다",
-          "ja": "お金を少なく借りて投資し、全額損失を避ける",
-          "en": "Borrow less for investment to avoid total loss"
-        },
-        "id": "sparkly-78"
-      },
-      {
-        "title": {
-          "cn": "IP思维",
-          "tw": "IP思維",
-          "ko": "IP 사고",
-          "ja": "IP思考",
-          "en": "IP Thinking"
-        },
-        "subtitle": {
-          "cn": "把一个事物打造成眼熟能赚钱的\"招牌\"",
-          "tw": "把一個事物打造成眼熟能賺錢的「招牌」",
-          "ko": "한 사물을 눈에 익고 돈을 벌 수 있는 \"간판\"으로 만든다",
-          "ja": "一つの物事を目に馴染みお金を稼げる「看板」にする",
-          "en": "Turn something into a familiar money-making \"brand\""
-        },
-        "id": "sparkly-79"
-      },
-      {
-        "title": {
-          "cn": "趋势思维",
-          "tw": "趨勢思維",
-          "ko": "추세 사고",
-          "ja": "トレンド思考",
-          "en": "Trend Thinking"
-        },
-        "subtitle": {
-          "cn": "跟着大方向（如行业风口）走，顺势赚钱更省力",
-          "tw": "跟著大方向（如行業風口）走，順勢賺錢更省力",
-          "ko": "큰 방향(예: 업계 트렌드)을 따라가면 추세에 따라 돈을 버는 것이 더 수월하다",
-          "ja": "大きな方向（例：業界のトレンド）に従えば、トレンドに沿ってお金を稼ぐ方が省力",
-          "en": "Follow big direction (like industry trends); making money with trend saves effort"
-        },
-        "id": "sparkly-80"
-      }
-  ] 
+    {
+      "title": {
+        "cn": "行动优先",
+        "tw": "行動優先",
+        "ko": "행동 우선",
+        "ja": "行動優先",
+        "en": "Action First"
+      },
+      "subtitle": {
+        "cn": "想一干遍不如做一遍，先动起来",
+        "tw": "想一千遍不如做一遍，先動起來",
+        "ko": "천 번 생각하는 것보다 한 번 행동하는 것이 낫다, 먼저 움직여라",
+        "ja": "千回考えるより一回行動する方が良い、まず動き出そう",
+        "en": "Thinking a thousand times is worse than doing once; start moving"
+      },
+      "id": "sparkly-1",
+      "baguaType": "zhen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "追踪进度",
+        "tw": "追蹤進度",
+        "ko": "진도 추적",
+        "ja": "進捗を追跡",
+        "en": "Track Progress"
+      },
+      "subtitle": {
+        "cn": "做个表格，记录目标完成了多少",
+        "tw": "做個表格，記錄目標完成了多少",
+        "ko": "표를 만들어 목표를 얼마나 달성했는지 기록하라",
+        "ja": "表を作り、目標をどれだけ達成したか記録する",
+        "en": "Make a table to record how much of the goal is completed"
+      },
+      "id": "sparkly-2",
+      "baguaType": "qian",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "复利思维",
+        "tw": "複利思維",
+        "ko": "복리 사고",
+        "ja": "複利思考",
+        "en": "Compound Thinking"
+      },
+      "subtitle": {
+        "cn": "每天进步1%，一年后你将比现在优秀38倍",
+        "tw": "每天進步1%，一年後你將比現在優秀38倍",
+        "ko": "매일 1%씩 진보하면, 1년 후에는 지금보다 38배 우수해진다",
+        "ja": "毎日1%進歩すれば、1年後には今より38倍優秀になる",
+        "en": "Improve 1% daily, you'll be 38 times better in a year"
+      },
+      "id": "sparkly-3",
+      "baguaType": "kun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "成长导向",
+        "tw": "成長導向",
+        "ko": "성장 지향",
+        "ja": "成長志向",
+        "en": "Growth Mindset"
+      },
+      "subtitle": {
+        "cn": "关注过程、努力和进步，而非仅仅结果",
+        "tw": "關注過程、努力和進步，而非僅僅結果",
+        "ko": "결과뿐만 아니라 과정, 노력, 진보에 주목하라",
+        "ja": "結果だけでなく、過程、努力、進歩に注目する",
+        "en": "Focus on process, effort, and progress, not just results"
+      },
+      "id": "sparkly-4",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "反思复盘",
+        "tw": "反思覆盤",
+        "ko": "성찰과 복기",
+        "ja": "振り返りと復習",
+        "en": "Reflect Review"
+      },
+      "subtitle": {
+        "cn": "定期回顾经历，总结经验教训",
+        "tw": "定期回顧經歷，總結經驗教訓",
+        "ko": "정기적으로 경험을 돌아보고, 경험과 교훈을 정리하라",
+        "ja": "定期的に経験を振り返り、経験と教訓をまとめる",
+        "en": "Regularly review experiences and summarize lessons learned"
+      },
+      "id": "sparkly-5",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "两分钟法则",
+        "tw": "兩分鐘法則",
+        "ko": "2분 법칙",
+        "ja": "2分ルール",
+        "en": "Two Minute Rule"
+      },
+      "subtitle": {
+        "cn": "两分钟内能做完的事，立刻去做",
+        "tw": "兩分鐘內能做完的事，立刻去做",
+        "ko": "2분 안에 할 수 있는 일은 즉시 하라",
+        "ja": "2分以内にできることはすぐにやる",
+        "en": "If it takes less than two minutes, do it immediately"
+      },
+      "id": "sparkly-6",
+      "baguaType": "zhen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "断舍离",
+        "tw": "斷捨離",
+        "ko": "단절과 정리",
+        "ja": "断捨離",
+        "en": "Declutter Focus"
+      },
+      "subtitle": {
+        "cn": "舍弃无关紧要的人/事/物，聚焦核心",
+        "tw": "捨棄無關緊要的人/事/物，聚焦核心",
+        "ko": "무관한 사람/일/물을 버리고 핵심에 집중하라",
+        "ja": "無関係な人/事/物を捨て、核心に焦点を当てる",
+        "en": "Discard irrelevant people/things/matters, focus on core"
+      },
+      "id": "sparkly-7",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "目标分解",
+        "tw": "目標分解",
+        "ko": "목표 분해",
+        "ja": "目標分解",
+        "en": "Break Down Goals"
+      },
+      "subtitle": {
+        "cn": "把大目标拆解成小步骤，逐个完成",
+        "tw": "把大目標拆解成小步驟，逐個完成",
+        "ko": "큰 목표를 작은 단계로 나누어 하나씩 완성하라",
+        "ja": "大きな目標を小さなステップに分解し、一つずつ完成する",
+        "en": "Break big goals into small steps, complete one by one"
+      },
+      "id": "sparkly-8",
+      "baguaType": "qian",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "迭代思维",
+        "tw": "迭代思維",
+        "ko": "반복 사고",
+        "ja": "反復思考",
+        "en": "Iterative Thinking"
+      },
+      "subtitle": {
+        "cn": "先完成再完美，通过小步快跑持续改进",
+        "tw": "先完成再完美，通過小步快跑持續改進",
+        "ko": "먼저 완성하고 나서 완벽하게 하라, 작은 걸음으로 빠르게 달려 지속적으로 개선하라",
+        "ja": "まず完成させてから完璧にし、小さなステップで速く走り続けて改善する",
+        "en": "Complete first, perfect later; improve continuously through small fast steps"
+      },
+      "id": "sparkly-9",
+      "baguaType": "zhen",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "要事优先",
+        "tw": "要事優先",
+        "ko": "중요한 일 우선",
+        "ja": "重要事項優先",
+        "en": "Prioritize Important"
+      },
+      "subtitle": {
+        "cn": "集中精力做最重要、影响最大的事",
+        "tw": "集中精力做最重要、影響最大的事",
+        "ko": "가장 중요하고 영향이 큰 일에 집중하라",
+        "ja": "最も重要で影響が大きいことに集中する",
+        "en": "Focus energy on most important and impactful tasks"
+      },
+      "id": "sparkly-10",
+      "baguaType": "qian",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "阶段奖励",
+        "tw": "階段獎勵",
+        "ko": "단계별 보상",
+        "ja": "段階的報酬",
+        "en": "Milestone Rewards"
+      },
+      "subtitle": {
+        "cn": "完成一个小目标，给自己点小奖励",
+        "tw": "完成一個小目標，給自己點小獎勵",
+        "ko": "작은 목표를 달성하면 자신에게 작은 보상을 주라",
+        "ja": "小さな目標を達成したら、自分に小さな報酬を与える",
+        "en": "Complete a small goal, give yourself a small reward"
+      },
+      "id": "sparkly-11",
+      "baguaType": "dui",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "番茄工作法",
+        "tw": "番茄工作法",
+        "ko": "뽀모도로 기법",
+        "ja": "ポモドーロテクニック",
+        "en": "Pomodoro Technique"
+      },
+      "subtitle": {
+        "cn": "25分钟专注工作+5分钟休息，提升效率",
+        "tw": "25分鐘專注工作+5分鐘休息，提升效率",
+        "ko": "25분 집중 작업+5분 휴식으로 효율을 높인다",
+        "ja": "25分集中作業+5分休憩で効率を上げる",
+        "en": "25 min focused work + 5 min break to boost efficiency"
+      },
+      "id": "sparkly-12",
+      "baguaType": "kun",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "外包思维",
+        "tw": "外包思維",
+        "ko": "아웃소싱 사고",
+        "ja": "アウトソーシング思考",
+        "en": "Outsource Thinking"
+      },
+      "subtitle": {
+        "cn": "将非核心或他人更擅长的事委托出去",
+        "tw": "將非核心或他人更擅長的事委託出去",
+        "ko": "핵심이 아니거나 다른 사람이 더 잘하는 일을 위탁하라",
+        "ja": "核心でないか他人がより得意なことを委託する",
+        "en": "Delegate non-core tasks or things others do better"
+      },
+      "id": "sparkly-13",
+      "baguaType": "qian",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "心流状态",
+        "tw": "心流狀態",
+        "ko": "몰입 상태",
+        "ja": "フロー状態",
+        "en": "Flow State"
+      },
+      "subtitle": {
+        "cn": "创造高度专注的环境。例：做热爱且擅长的事",
+        "tw": "創造高度專注的環境。例：做熱愛且擅長的事",
+        "ko": "높은 집중 환경을 만든다. 예: 사랑하고 잘하는 일을 하기",
+        "ja": "高度な集中環境を作る。例：愛し得意なことをする",
+        "en": "Create highly focused environment. Example: do what you love and excel at"
+      },
+      "id": "sparkly-14",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "长线思维",
+        "tw": "長線思維",
+        "ko": "장기 사고",
+        "ja": "長期思考",
+        "en": "Long Term Thinking"
+      },
+      "subtitle": {
+        "cn": "关注长期目标和价值，不被短期诱惑干扰",
+        "tw": "關注長期目標和價值，不被短期誘惑干擾",
+        "ko": "장기 목표와 가치에 주목하고, 단기 유혹에 방해받지 않는다",
+        "ja": "長期目標と価値に注目し、短期の誘惑に惑わされない",
+        "en": "Focus on long-term goals and value, not distracted by short-term temptations"
+      },
+      "id": "sparkly-15",
+      "baguaType": "qian",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "二八法则",
+        "tw": "二八法則",
+        "ko": "파레토 법칙",
+        "ja": "パレートの法則",
+        "en": "Pareto Principle"
+      },
+      "subtitle": {
+        "cn": "20%努力决定80%结果，抓住关键少数",
+        "tw": "20%努力決定80%結果，抓住關鍵少數",
+        "ko": "20%의 노력이 80%의 결과를 결정하며, 핵심 소수를 잡는다",
+        "ja": "20%の努力が80%の結果を決定し、重要な少数を捉える",
+        "en": "20% effort determines 80% results; grasp the critical few"
+      },
+      "id": "sparkly-16",
+      "baguaType": "qian",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "机会成本",
+        "tw": "機會成本",
+        "ko": "기회 비용",
+        "ja": "機会費用",
+        "en": "Opportunity Cost"
+      },
+      "subtitle": {
+        "cn": "选择A意味着放弃B的价值，决策需权衡",
+        "tw": "選擇A意味著放棄B的價值，決策需權衡",
+        "ko": "A를 선택하는 것은 B의 가치를 포기하는 것이며, 결정은 균형을 고려해야 한다",
+        "ja": "Aを選ぶことはBの価値を放棄することを意味し、決定にはバランスが必要",
+        "en": "Choosing A means giving up B's value; decisions need balance"
+      },
+      "id": "sparkly-17",
+      "baguaType": "qian",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "价值思维",
+        "tw": "價值思維",
+        "ko": "가치 사고",
+        "ja": "価値思考",
+        "en": "Value Thinking"
+      },
+      "subtitle": {
+        "cn": "别只看\"我花了多少力\"，看\"创造了啥价值\"",
+        "tw": "別只看「我花了多少力」，看「創造了啥價值」",
+        "ko": "\"내가 얼마나 힘을 썼는지\"만 보지 말고 \"무엇을 창조했는지\"를 보라",
+        "ja": "「どれだけ力を費やしたか」だけでなく「何の価値を創造したか」を見る",
+        "en": "Don't just see \"how much effort I spent\", see \"what value I created\""
+      },
+      "id": "sparkly-18",
+      "baguaType": "dui",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "逆向思维",
+        "tw": "逆向思維",
+        "ko": "역방향 사고",
+        "ja": "逆方向思考",
+        "en": "Reverse Thinking"
+      },
+      "subtitle": {
+        "cn": "\"反其道而思之\"，可能有更优解",
+        "tw": "「反其道而思之」，可能有更優解",
+        "ko": "\"그 길과 반대로 생각하면\" 더 나은 해결책이 있을 수 있다",
+        "ja": "「その道と逆に考える」と、より良い解決策があるかもしれない",
+        "en": "\"Think the opposite way\", may find better solution"
+      },
+      "id": "sparkly-19",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "辩证思维",
+        "tw": "辯證思維",
+        "ko": "변증법적 사고",
+        "ja": "弁証法的思考",
+        "en": "Dialectical Thinking"
+      },
+      "subtitle": {
+        "cn": "看到事物的两面性，福祸相依",
+        "tw": "看到事物的兩面性，福禍相依",
+        "ko": "사물의 양면성을 보고, 복과 화가 서로 의지한다",
+        "ja": "物事の両面性を見て、福と禍は互いに依存する",
+        "en": "See both sides of things; fortune and misfortune coexist"
+      },
+      "id": "sparkly-20",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "周期思维",
+        "tw": "週期思維",
+        "ko": "주기 사고",
+        "ja": "周期思考",
+        "en": "Cycle Thinking"
+      },
+      "subtitle": {
+        "cn": "万物有周期，低谷时别慌，会慢慢上来的",
+        "tw": "萬物有週期，低谷時別慌，會慢慢上來的",
+        "ko": "만물에는 주기가 있으며, 저점일 때 당황하지 말고 천천히 올라올 것이다",
+        "ja": "万物には周期があり、底の時は慌てず、ゆっくり上がってくる",
+        "en": "Everything has cycles; don't panic at lows, will slowly rise"
+      },
+      "id": "sparkly-21",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "奥卡姆剃刀",
+        "tw": "奧卡姆剃刀",
+        "ko": "오컴의 면도날",
+        "ja": "オッカムの剃刀",
+        "en": "Occam's Razor"
+      },
+      "subtitle": {
+        "cn": "把复杂事情简单化，往往最接近成功",
+        "tw": "把複雜事情簡單化，往往最接近成功",
+        "ko": "복잡한 일을 단순화하면 종종 성공에 가장 가까워진다",
+        "ja": "複雑なことを単純化すると、しばしば成功に最も近づく",
+        "en": "Simplify complex matters, often closest to success"
+      },
+      "id": "sparkly-22",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "灰犀牛思维",
+        "tw": "灰犀牛思維",
+        "ko": "회색 코뿔소 사고",
+        "ja": "グレーサイの思考",
+        "en": "Gray Rhino Thinking"
+      },
+      "subtitle": {
+        "cn": "警惕明显却被忽视的重大风险，并主动预防",
+        "tw": "警惕明顯卻被忽視的重大風險，並主動預防",
+        "ko": "명백하지만 무시되는 중대한 위험을 경계하고 적극적으로 예방하라",
+        "ja": "明らかだが無視される重大なリスクに警戒し、積極的に予防する",
+        "en": "Beware obvious but ignored major risks, actively prevent them"
+      },
+      "id": "sparkly-23",
+      "baguaType": "gen",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "墨菲定律",
+        "tw": "墨菲定律",
+        "ko": "머피의 법칙",
+        "ja": "マーフィーの法則",
+        "en": "Murphy's Law"
+      },
+      "subtitle": {
+        "cn": "可能出错的事总会出错，提前做好预案",
+        "tw": "可能出錯的事總會出錯，提前做好預案",
+        "ko": "잘못될 수 있는 일은 항상 잘못되므로, 미리 계획을 세워라",
+        "ja": "間違う可能性のあることは必ず間違うので、事前に計画を立てる",
+        "en": "What can go wrong will go wrong; prepare plans in advance"
+      },
+      "id": "sparkly-24",
+      "baguaType": "gen",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "多元视角",
+        "tw": "多元視角",
+        "ko": "다원적 시각",
+        "ja": "多元的視点",
+        "en": "Multiple Perspectives"
+      },
+      "subtitle": {
+        "cn": "同一件事，换个角度看，结论可能不一样",
+        "tw": "同一件事，換個角度看，結論可能不一樣",
+        "ko": "같은 일도 각도를 바꿔 보면 결론이 다를 수 있다",
+        "ja": "同じことでも、角度を変えて見ると結論が異なるかもしれない",
+        "en": "Same thing, different angle, conclusion may differ"
+      },
+      "id": "sparkly-25",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "能力圈",
+        "tw": "能力圈",
+        "ko": "능력권",
+        "ja": "能力圏",
+        "en": "Circle of Competence"
+      },
+      "subtitle": {
+        "cn": "清楚自己懂什么不懂什么，在能力范围内行事",
+        "tw": "清楚自己懂什麼不懂什麼，在能力範圍內行事",
+        "ko": "자신이 무엇을 알고 무엇을 모르는지 명확히 하고, 능력 범위 내에서 행동하라",
+        "ja": "自分が何を知り何を知らないかを明確にし、能力範囲内で行動する",
+        "en": "Know what you know and don't know; act within your competence"
+      },
+      "id": "sparkly-26",
+      "baguaType": "gen",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "风险思维",
+        "tw": "風險思維",
+        "ko": "위험 사고",
+        "ja": "リスク思考",
+        "en": "Risk Thinking"
+      },
+      "subtitle": {
+        "cn": "做决定前，先想\"最坏的结果能接受吗\"",
+        "tw": "做決定前，先想「最壞的結果能接受嗎」",
+        "ko": "결정하기 전에 \"최악의 결과를 받아들일 수 있는가\"를 먼저 생각하라",
+        "ja": "決定する前に、「最悪の結果を受け入れられるか」をまず考える",
+        "en": "Before deciding, think \"can I accept the worst outcome\""
+      },
+      "id": "sparkly-27",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "趋势思维",
+        "tw": "趨勢思維",
+        "ko": "추세 사고",
+        "ja": "トレンド思考",
+        "en": "Trend Thinking"
+      },
+      "subtitle": {
+        "cn": "看看大家都在往哪走，顺着趋势走省力",
+        "tw": "看看大家都在往哪走，順著趨勢走省力",
+        "ko": "모두가 어디로 가는지 보고, 추세를 따라가면 힘이 덜 든다",
+        "ja": "みんながどこへ向かっているかを見て、トレンドに沿って進めば省力",
+        "en": "See where everyone is going, follow the trend to save effort"
+      },
+      "id": "sparkly-28",
+      "baguaType": "qian",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "概率思维",
+        "tw": "概率思維",
+        "ko": "확률 사고",
+        "ja": "確率思考",
+        "en": "Probability Thinking"
+      },
+      "subtitle": {
+        "cn": "别求\"一定成\"，多做大概率赢的事",
+        "tw": "別求「一定成」，多做大概率贏的事",
+        "ko": "\"반드시 성공\"을 구하지 말고, 승률이 높은 일을 많이 하라",
+        "ja": "「必ず成功」を求めず、勝率の高いことを多くする",
+        "en": "Don't seek \"guaranteed success\", do more high-probability wins"
+      },
+      "id": "sparkly-29",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "批判性思维",
+        "tw": "批判性思維",
+        "ko": "비판적 사고",
+        "ja": "批判的思考",
+        "en": "Critical Thinking"
+      },
+      "subtitle": {
+        "cn": "质疑信息，分析证据，独立思考，不盲从",
+        "tw": "質疑資訊，分析證據，獨立思考，不盲從",
+        "ko": "정보를 의심하고, 증거를 분석하며, 독립적으로 사고하고, 맹목적으로 따르지 않는다",
+        "ja": "情報を疑い、証拠を分析し、独立して思考し、盲目的に従わない",
+        "en": "Question information, analyze evidence, think independently, don't follow blindly"
+      },
+      "id": "sparkly-30",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "第一性原理",
+        "tw": "第一性原理",
+        "ko": "제1원리",
+        "ja": "第一原理",
+        "en": "First Principles"
+      },
+      "subtitle": {
+        "cn": "抛开表象，回归事物最基本的事实思考",
+        "tw": "拋開表象，回歸事物最基本的事實思考",
+        "ko": "표상을 버리고 사물의 가장 기본적인 사실로 돌아가 사고하라",
+        "ja": "表象を捨て、物事の最も基本的な事実に戻って思考する",
+        "en": "Set aside appearances, return to most basic facts of things"
+      },
+      "id": "sparkly-31",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "空杯心态",
+        "tw": "空杯心態",
+        "ko": "빈 잔 마음가짐",
+        "ja": "空の杯の心構え",
+        "en": "Empty Cup Mindset"
+      },
+      "subtitle": {
+        "cn": "保持开放，虚心学习，不自满不固执",
+        "tw": "保持開放，虛心學習，不自滿不固執",
+        "ko": "개방을 유지하고, 겸손하게 배우며, 자만하지 않고 고집하지 않는다",
+        "ja": "開放を保ち、謙虚に学び、自満せず固執しない",
+        "en": "Stay open, learn humbly, don't be complacent or stubborn"
+      },
+      "id": "sparkly-32",
+      "baguaType": "kan",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "主动思维",
+        "tw": "主動思維",
+        "ko": "적극적 사고",
+        "ja": "積極的思考",
+        "en": "Proactive Thinking"
+      },
+      "subtitle": {
+        "cn": "机会不会等你，想要就自己伸手",
+        "tw": "機會不會等你，想要就自己伸手",
+        "ko": "기회는 당신을 기다리지 않으니, 원하면 자신이 손을 뻗어라",
+        "ja": "機会は待ってくれない、欲しければ自分で手を伸ばす",
+        "en": "Opportunities won't wait; if you want it, reach out yourself"
+      },
+      "id": "sparkly-33",
+      "baguaType": "zhen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "清醒思维",
+        "tw": "清醒思維",
+        "ko": "냉정한 사고",
+        "ja": "冷静な思考",
+        "en": "Clear Thinking"
+      },
+      "subtitle": {
+        "cn": "别被表扬冲昏头，也别被批评打垮",
+        "tw": "別被表揚沖昏頭，也別被批評打垮",
+        "ko": "칭찬에 취하지 말고, 비판에 무너지지도 말라",
+        "ja": "褒められて有頂天にならず、批判されて打ちのめされない",
+        "en": "Don't get carried away by praise, don't be crushed by criticism"
+      },
+      "id": "sparkly-34",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "钝感力",
+        "tw": "鈍感力",
+        "ko": "둔감력",
+        "ja": "鈍感力",
+        "en": "Insensitivity Power"
+      },
+      "subtitle": {
+        "cn": "对小事别太敏感，钝一点更轻松",
+        "tw": "對小事別太敏感，鈍一點更輕鬆",
+        "ko": "작은 일에 너무 민감하지 말고, 둔감하게 하는 것이 더 편하다",
+        "ja": "小さなことに敏感になりすぎず、鈍感な方が楽",
+        "en": "Don't be too sensitive to small things; being insensitive is easier"
+      },
+      "id": "sparkly-35",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "节奏思维",
+        "tw": "節奏思維",
+        "ko": "리듬 사고",
+        "ja": "リズム思考",
+        "en": "Rhythm Thinking"
+      },
+      "subtitle": {
+        "cn": "别跟他人比速度，找到自己的节奏",
+        "tw": "別跟他人比速度，找到自己的節奏",
+        "ko": "다른 사람과 속도를 비교하지 말고, 자신의 리듬을 찾아라",
+        "ja": "他人と速度を比べず、自分のリズムを見つける",
+        "en": "Don't compare speed with others, find your own rhythm"
+      },
+      "id": "sparkly-36",
+      "baguaType": "kun",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "容错思维",
+        "tw": "容錯思維",
+        "ko": "오류 허용 사고",
+        "ja": "エラー許容思考",
+        "en": "Error Tolerance"
+      },
+      "subtitle": {
+        "cn": "允许自己犯错，重点是下次改",
+        "tw": "允許自己犯錯，重點是下次改",
+        "ko": "자신이 실수하는 것을 허용하되, 중요한 것은 다음에 고치는 것이다",
+        "ja": "自分が間違いを犯すことを許し、重要なのは次に改めること",
+        "en": "Allow yourself to make mistakes; focus is correcting next time"
+      },
+      "id": "sparkly-37",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "感恩心态",
+        "tw": "感恩心態",
+        "ko": "감사 마음가짐",
+        "ja": "感謝の心構え",
+        "en": "Gratitude Mindset"
+      },
+      "subtitle": {
+        "cn": "常怀感激，关注已有，提升幸福感",
+        "tw": "常懷感激，關注已有，提升幸福感",
+        "ko": "항상 감사하며, 이미 가진 것에 주목하고, 행복감을 높인다",
+        "ja": "常に感謝し、既にあるものに注目し、幸福感を高める",
+        "en": "Always be grateful, focus on what you have, boost happiness"
+      },
+      "id": "sparkly-38",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "自我效能感",
+        "tw": "自我效能感",
+        "ko": "자기 효능감",
+        "ja": "自己効力感",
+        "en": "Self Efficacy"
+      },
+      "subtitle": {
+        "cn": "相信自己有能力完成特定任务",
+        "tw": "相信自己有能力完成特定任務",
+        "ko": "자신이 특정 작업을 완성할 수 있는 능력이 있다고 믿는다",
+        "ja": "自分が特定のタスクを完了する能力があると信じる",
+        "en": "Believe you have the ability to complete specific tasks"
+      },
+      "id": "sparkly-39",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "保持好奇心",
+        "tw": "保持好奇心",
+        "ko": "호기심 유지",
+        "ja": "好奇心を保つ",
+        "en": "Stay Curious"
+      },
+      "subtitle": {
+        "cn": "对世界保持开放和探索的欲望",
+        "tw": "對世界保持開放和探索的慾望",
+        "ko": "세계에 대해 개방적이고 탐구하는 욕구를 유지한다",
+        "ja": "世界に対して開放と探求の欲望を保つ",
+        "en": "Maintain open and exploratory desire for the world"
+      },
+      "id": "sparkly-40",
+      "baguaType": "kan",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "乐观主义",
+        "tw": "樂觀主義",
+        "ko": "낙관주의",
+        "ja": "楽観主義",
+        "en": "Optimism"
+      },
+      "subtitle": {
+        "cn": "相信未来会更好，积极面对困难",
+        "tw": "相信未來會更好，積極面對困難",
+        "ko": "미래가 더 나아질 것이라고 믿고, 어려움에 적극적으로 대면한다",
+        "ja": "未来がより良くなると信じ、困難に積極的に向き合う",
+        "en": "Believe future will be better, face difficulties positively"
+      },
+      "id": "sparkly-41",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "内观思维",
+        "tw": "內觀思維",
+        "ko": "내관 사고",
+        "ja": "内観思考",
+        "en": "Introspection"
+      },
+      "subtitle": {
+        "cn": "烦躁时先问自己：我到底在纠结啥",
+        "tw": "煩躁時先問自己：我到底在糾結啥",
+        "ko": "초조할 때 먼저 자신에게 물어라: 나는 도대체 무엇에 고민하고 있는가",
+        "ja": "イライラした時、まず自分に問う：私は一体何に悩んでいるのか",
+        "en": "When restless, first ask yourself: what am I really stuck on"
+      },
+      "id": "sparkly-42",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "延迟满足",
+        "tw": "延遲滿足",
+        "ko": "만족 지연",
+        "ja": "満足の遅延",
+        "en": "Delayed Gratification"
+      },
+      "subtitle": {
+        "cn": "克制即时欲望，为长远更大回报忍耐",
+        "tw": "克制即時慾望，為長遠更大回報忍耐",
+        "ko": "즉각적인 욕구를 억제하고, 장기적으로 더 큰 보상을 위해 참는다",
+        "ja": "即座の欲望を抑制し、長期的により大きな報酬のために耐える",
+        "en": "Restrain immediate desires, endure for greater long-term returns"
+      },
+      "id": "sparkly-43",
+      "baguaType": "kun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "自我关怀",
+        "tw": "自我關懷",
+        "ko": "자기 돌봄",
+        "ja": "自己ケア",
+        "en": "Self Compassion"
+      },
+      "subtitle": {
+        "cn": "像对待好朋友一样善待和理解自己",
+        "tw": "像對待好朋友一樣善待和理解自己",
+        "ko": "좋은 친구를 대하듯 자신을 친절하게 대하고 이해하라",
+        "ja": "親しい友人を扱うように自分を優しく扱い理解する",
+        "en": "Treat and understand yourself like a good friend"
+      },
+      "id": "sparkly-44",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "接纳自我",
+        "tw": "接納自我",
+        "ko": "자기 수용",
+        "ja": "自己受容",
+        "en": "Self Acceptance"
+      },
+      "subtitle": {
+        "cn": "接受自己的不完美，才能慢慢变完美",
+        "tw": "接受自己的不完美，才能慢慢變完美",
+        "ko": "자신의 불완전함을 받아들여야 천천히 완벽해질 수 있다",
+        "ja": "自分の不完全さを受け入れてこそ、ゆっくり完璧になれる",
+        "en": "Accept your imperfections to gradually become perfect"
+      },
+      "id": "sparkly-45",
+      "baguaType": "li",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "归零思维",
+        "tw": "歸零思維",
+        "ko": "제로 사고",
+        "ja": "ゼロ思考",
+        "en": "Reset Thinking"
+      },
+      "subtitle": {
+        "cn": "过去的成绩别常挂嘴边，随时重新开始",
+        "tw": "過去的成績別常掛嘴邊，隨時重新開始",
+        "ko": "과거의 성과를 항상 입에 올리지 말고, 언제든지 다시 시작하라",
+        "ja": "過去の成績を常に口にせず、いつでも再スタートする",
+        "en": "Don't always mention past achievements; restart anytime"
+      },
+      "id": "sparkly-46",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "正念当下",
+        "tw": "正念當下",
+        "ko": "마음챙김 현재",
+        "ja": "マインドフルネス現在",
+        "en": "Mindful Present"
+      },
+      "subtitle": {
+        "cn": "专注感受当下，不纠结、不焦虑过去和未来",
+        "tw": "專注感受當下，不糾結、不焦慮過去和未來",
+        "ko": "현재에 집중하고 느끼며, 과거와 미래에 고민하거나 불안해하지 않는다",
+        "ja": "現在に集中して感じ、過去と未来に悩まず不安にならない",
+        "en": "Focus on feeling the present, don't worry about past or future"
+      },
+      "id": "sparkly-47",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "课题分离",
+        "tw": "課題分離",
+        "ko": "과제 분리",
+        "ja": "課題分離",
+        "en": "Separate Concerns"
+      },
+      "subtitle": {
+        "cn": "分清自己的事和他人的事，各管各的不瞎操心",
+        "tw": "分清自己的事和他人的事，各管各的不瞎操心",
+        "ko": "자신의 일과 타인의 일을 구분하고, 각자 자신의 일을 관리하며 불필요하게 걱정하지 않는다",
+        "ja": "自分のことと他人のことを区別し、それぞれ自分のことを管理し、無駄に心配しない",
+        "en": "Distinguish your matters from others'; each manages their own, don't worry unnecessarily"
+      },
+      "id": "sparkly-48",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "建立信任",
+        "tw": "建立信任",
+        "ko": "신뢰 구축",
+        "ja": "信頼構築",
+        "en": "Build Trust"
+      },
+      "subtitle": {
+        "cn": "言行一致，可靠守信，是人际基础",
+        "tw": "言行一致，可靠守信，是人際基礎",
+        "ko": "언행일치하고, 신뢰할 수 있고 약속을 지키는 것이 인간관계의 기초다",
+        "ja": "言行一致し、信頼でき約束を守ることが人間関係の基礎",
+        "en": "Match words with actions, be reliable and trustworthy; foundation of relationships"
+      },
+      "id": "sparkly-49",
+      "baguaType": "xun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "处理冲突",
+        "tw": "處理衝突",
+        "ko": "갈등 처리",
+        "ja": "衝突処理",
+        "en": "Handle Conflict"
+      },
+      "subtitle": {
+        "cn": "以解决问题为目标，而非争输赢",
+        "tw": "以解決問題為目標，而非爭輸贏",
+        "ko": "승패를 다투기보다는 문제 해결을 목표로 한다",
+        "ja": "勝敗を争うのではなく、問題解決を目標とする",
+        "en": "Aim to solve problems, not to win or lose"
+      },
+      "id": "sparkly-50",
+      "baguaType": "xun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "有效反馈",
+        "tw": "有效反饋",
+        "ko": "효과적 피드백",
+        "ja": "効果的フィードバック",
+        "en": "Effective Feedback"
+      },
+      "subtitle": {
+        "cn": "给予具体、及时、建设性的意见",
+        "tw": "給予具體、及時、建設性的意見",
+        "ko": "구체적이고, 시기적절하며, 건설적인 의견을 제시한다",
+        "ja": "具体的で、適時で、建設的な意見を与える",
+        "en": "Give specific, timely, constructive feedback"
+      },
+      "id": "sparkly-51",
+      "baguaType": "xun",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "给予者心态",
+        "tw": "給予者心態",
+        "ko": "주는 사람 마음가짐",
+        "ja": "与える者の心構え",
+        "en": "Giver Mindset"
+      },
+      "subtitle": {
+        "cn": "乐于分享知识、资源、帮助，建立信任",
+        "tw": "樂於分享知識、資源、幫助，建立信任",
+        "ko": "지식, 자원, 도움을 기꺼이 공유하고 신뢰를 구축한다",
+        "ja": "知識、資源、助けを喜んで共有し、信頼を築く",
+        "en": "Willingly share knowledge, resources, help; build trust"
+      },
+      "id": "sparkly-52",
+      "baguaType": "dui",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "影响力",
+        "tw": "影響力",
+        "ko": "영향력",
+        "ja": "影響力",
+        "en": "Influence"
+      },
+      "subtitle": {
+        "cn": "通过专业、信誉和沟通有效说服他人",
+        "tw": "通過專業、信譽和溝通有效說服他人",
+        "ko": "전문성, 신뢰성, 소통을 통해 타인을 효과적으로 설득한다",
+        "ja": "専門性、信頼性、コミュニケーションを通じて他人を効果的に説得する",
+        "en": "Effectively persuade others through expertise, credibility, and communication"
+      },
+      "id": "sparkly-53",
+      "baguaType": "xun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "主动倾听",
+        "tw": "主動傾聽",
+        "ko": "적극적 경청",
+        "ja": "積極的傾聴",
+        "en": "Active Listening"
+      },
+      "subtitle": {
+        "cn": "少打断别人，多听比多说更受欢迎",
+        "tw": "少打斷別人，多聽比多說更受歡迎",
+        "ko": "다른 사람을 방해하지 말고, 많이 듣는 것이 많이 말하는 것보다 더 환영받는다",
+        "ja": "他人を遮らず、多く聞くことは多く話すことより歓迎される",
+        "en": "Interrupt less; listening more is more welcome than talking more"
+      },
+      "id": "sparkly-54",
+      "baguaType": "xun",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "双赢思维",
+        "tw": "雙贏思維",
+        "ko": "윈윈 사고",
+        "ja": "ウィンウィン思考",
+        "en": "Win Win Thinking"
+      },
+      "subtitle": {
+        "cn": "寻求互惠互利的解决方案",
+        "tw": "尋求互惠互利的解決方案",
+        "ko": "상호 이익이 되는 해결책을 찾는다",
+        "ja": "相互利益のある解決策を求める",
+        "en": "Seek mutually beneficial solutions"
+      },
+      "id": "sparkly-55",
+      "baguaType": "xun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "同理心",
+        "tw": "同理心",
+        "ko": "공감",
+        "ja": "共感",
+        "en": "Empathy"
+      },
+      "subtitle": {
+        "cn": "设身处地理解他人的感受和想法",
+        "tw": "設身處地理解他人的感受和想法",
+        "ko": "타인의 입장에서 타인의 감정과 생각을 이해한다",
+        "ja": "他人の立場に立って他人の感情と考えを理解する",
+        "en": "Understand others' feelings and thoughts from their perspective"
+      },
+      "id": "sparkly-56",
+      "baguaType": "xun",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "合作思维",
+        "tw": "合作思維",
+        "ko": "협력 사고",
+        "ja": "協力思考",
+        "en": "Collaboration Thinking"
+      },
+      "subtitle": {
+        "cn": "协作比单打独斗更能创造更大的价值",
+        "tw": "協作比單打獨鬥更能創造更大的價值",
+        "ko": "협력이 혼자 하는 것보다 더 큰 가치를 창조할 수 있다",
+        "ja": "協力は一人で戦うより大きな価値を創造できる",
+        "en": "Collaboration creates greater value than going alone"
+      },
+      "id": "sparkly-57",
+      "baguaType": "xun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "管理期望",
+        "tw": "管理期望",
+        "ko": "기대 관리",
+        "ja": "期待管理",
+        "en": "Manage Expectations"
+      },
+      "subtitle": {
+        "cn": "清晰沟通目标和预期，避免误解和失望",
+        "tw": "清晰溝通目標和預期，避免誤解和失望",
+        "ko": "목표와 기대를 명확히 소통하여 오해와 실망을 피한다",
+        "ja": "目標と期待を明確にコミュニケーションし、誤解と失望を避ける",
+        "en": "Clearly communicate goals and expectations to avoid misunderstanding and disappointment"
+      },
+      "id": "sparkly-58",
+      "baguaType": "xun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "建立人脉",
+        "tw": "建立人脈",
+        "ko": "인맥 구축",
+        "ja": "人脈構築",
+        "en": "Build Network"
+      },
+      "subtitle": {
+        "cn": "维护有价值的关系网络，互惠互助",
+        "tw": "維護有價值的關係網絡，互惠互助",
+        "ko": "가치 있는 관계 네트워크를 유지하고 상호 이익과 도움을 제공한다",
+        "ja": "価値のある関係ネットワークを維持し、相互利益と助け合い",
+        "en": "Maintain valuable relationship network, mutual benefit and help"
+      },
+      "id": "sparkly-59",
+      "baguaType": "dui",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "赞美与认可",
+        "tw": "讚美與認可",
+        "ko": "칭찬과 인정",
+        "ja": "称賛と認可",
+        "en": "Praise Recognition"
+      },
+      "subtitle": {
+        "cn": "真诚地欣赏和肯定他人的贡献和优点",
+        "tw": "真誠地欣賞和肯定他人的貢獻和優點",
+        "ko": "진심으로 타인의 기여와 장점을 감상하고 인정한다",
+        "ja": "心から他人の貢献と長所を賞賛し肯定する",
+        "en": "Sincerely appreciate and acknowledge others' contributions and strengths"
+      },
+      "id": "sparkly-60",
+      "baguaType": "xun",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "边界意识",
+        "tw": "邊界意識",
+        "ko": "경계 의식",
+        "ja": "境界意識",
+        "en": "Boundary Awareness"
+      },
+      "subtitle": {
+        "cn": "别总麻烦他人，也别让他人随便麻烦你",
+        "tw": "別總麻煩他人，也別讓他人隨便麻煩你",
+        "ko": "항상 다른 사람을 귀찮게 하지 말고, 다른 사람이 당신을 함부로 귀찮게 하지 않게 하라",
+        "ja": "常に他人を煩わせず、他人に自分を勝手に煩わせさせない",
+        "en": "Don't always trouble others, don't let others trouble you casually"
+      },
+      "id": "sparkly-61",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "换位思考",
+        "tw": "換位思考",
+        "ko": "입장 바꿔 생각하기",
+        "ja": "立場を変えて考える",
+        "en": "Perspective Taking"
+      },
+      "subtitle": {
+        "cn": "站在对方角度看问题，理解立场和动机",
+        "tw": "站在對方角度看問題，理解立場和動機",
+        "ko": "상대방의 입장에서 문제를 보고, 입장과 동기를 이해한다",
+        "ja": "相手の立場から問題を見て、立場と動機を理解する",
+        "en": "See problems from others' perspective, understand their position and motives"
+      },
+      "id": "sparkly-62",
+      "baguaType": "xun",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "求同存异",
+        "tw": "求同存異",
+        "ko": "동이를 구하고 이이를 존중",
+        "ja": "同を求め異を存す",
+        "en": "Seek Common Ground"
+      },
+      "subtitle": {
+        "cn": "在分歧中寻找共同点，尊重不同观点",
+        "tw": "在分歧中尋找共同點，尊重不同觀點",
+        "ko": "분歧 속에서 공통점을 찾고, 다른 관점을 존중한다",
+        "ja": "意見の相違の中で共通点を見つけ、異なる視点を尊重する",
+        "en": "Find common ground in disagreements, respect different views"
+      },
+      "id": "sparkly-63",
+      "baguaType": "xun",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "非暴力沟通",
+        "tw": "非暴力溝通",
+        "ko": "비폭력 소통",
+        "ja": "非暴力コミュニケーション",
+        "en": "Nonviolent Communication"
+      },
+      "subtitle": {
+        "cn": "清晰表达自己的感受和需求等，减少冲突",
+        "tw": "清晰表達自己的感受和需求等，減少衝突",
+        "ko": "자신의 감정과 요구 등을 명확히 표현하여 갈등을 줄인다",
+        "ja": "自分の感情とニーズなどを明確に表現し、衝突を減らす",
+        "en": "Clearly express your feelings and needs to reduce conflict"
+      },
+      "id": "sparkly-64",
+      "baguaType": "xun",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "讲故事能力",
+        "tw": "講故事能力",
+        "ko": "스토리텔링 능력",
+        "ja": "ストーリーテリング能力",
+        "en": "Storytelling Skill"
+      },
+      "subtitle": {
+        "cn": "用故事传递情感和价值观，或许更有感染力",
+        "tw": "用故事傳遞情感和價值觀，或許更有感染力",
+        "ko": "이야기로 감정과 가치관을 전달하면 더 감동적일 수 있다",
+        "ja": "物語で感情と価値観を伝えると、より感動的かもしれない",
+        "en": "Use stories to convey emotions and values, perhaps more impactful"
+      },
+      "id": "sparkly-65",
+      "baguaType": "li",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "终身学习",
+        "tw": "終身學習",
+        "ko": "평생 학습",
+        "ja": "生涯学習",
+        "en": "Lifelong Learning"
+      },
+      "subtitle": {
+        "cn": "保持持续学习的热情和习惯",
+        "tw": "保持持續學習的熱情和習慣",
+        "ko": "지속적인 학습의 열정과 습관을 유지한다",
+        "ja": "継続的な学習の情熱と習慣を保つ",
+        "en": "Maintain passion and habit of continuous learning"
+      },
+      "id": "sparkly-66",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "试错迭代",
+        "tw": "試錯迭代",
+        "ko": "시행착오 반복",
+        "ja": "試行錯誤の反復",
+        "en": "Trial Error Iterate"
+      },
+      "subtitle": {
+        "cn": "过去的想法可能错了，别怕推翻自己",
+        "tw": "過去的想法可能錯了，別怕推翻自己",
+        "ko": "과거의 생각이 틀렸을 수 있으니, 자신을 뒤집는 것을 두려워하지 말라",
+        "ja": "過去の考えが間違っていたかもしれない、自分を覆すことを恐れない",
+        "en": "Past thoughts may be wrong; don't fear overturning yourself"
+      },
+      "id": "sparkly-67",
+      "baguaType": "zhen",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "知识迁移",
+        "tw": "知識遷移",
+        "ko": "지식 전이",
+        "ja": "知識移転",
+        "en": "Knowledge Transfer"
+      },
+      "subtitle": {
+        "cn": "将学到的知识应用到新情境中",
+        "tw": "將學到的知識應用到新情境中",
+        "ko": "배운 지식을 새로운 상황에 적용한다",
+        "ja": "学んだ知識を新しい状況に適用する",
+        "en": "Apply learned knowledge to new situations"
+      },
+      "id": "sparkly-68",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "简化思维",
+        "tw": "簡化思維",
+        "ko": "단순화 사고",
+        "ja": "簡素化思考",
+        "en": "Simplify Thinking"
+      },
+      "subtitle": {
+        "cn": "去除冗余，抓住核心，让复杂变简单",
+        "tw": "去除冗餘，抓住核心，讓複雜變簡單",
+        "ko": "여유를 제거하고 핵심을 잡아 복잡함을 단순하게 만든다",
+        "ja": "冗長を除去し、核心を捉え、複雑を単純にする",
+        "en": "Remove redundancy, grasp core, make complex simple"
+      },
+      "id": "sparkly-69",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "模式识别",
+        "tw": "模式識別",
+        "ko": "패턴 인식",
+        "ja": "パターン認識",
+        "en": "Pattern Recognition"
+      },
+      "subtitle": {
+        "cn": "从经验或数据中发现重复出现的规律",
+        "tw": "從經驗或數據中發現重複出現的規律",
+        "ko": "경험이나 데이터에서 반복적으로 나타나는 규칙을 발견한다",
+        "ja": "経験やデータから繰り返し現れる法則を発見する",
+        "en": "Discover recurring patterns from experience or data"
+      },
+      "id": "sparkly-70",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "跨界思维",
+        "tw": "跨界思維",
+        "ko": "크로스오버 사고",
+        "ja": "クロスオーバー思考",
+        "en": "Cross Domain Thinking"
+      },
+      "subtitle": {
+        "cn": "借鉴不同领域的知识和方法，激发创新",
+        "tw": "借鑑不同領域的知識和方法，激發創新",
+        "ko": "다른 분야의 지식과 방법을 참고하여 혁신을 자극한다",
+        "ja": "異なる分野の知識と方法を参考にし、革新を刺激する",
+        "en": "Learn from different fields' knowledge and methods to spark innovation"
+      },
+      "id": "sparkly-71",
+      "baguaType": "kan",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "刻意好奇",
+        "tw": "刻意好奇",
+        "ko": "의도적 호기심",
+        "ja": "意図的好奇心",
+        "en": "Deliberate Curiosity"
+      },
+      "subtitle": {
+        "cn": "主动提问\"为什么\"、\"如果.会怎样\"",
+        "tw": "主動提問「為什麼」、「如果.會怎樣」",
+        "ko": "적극적으로 \"왜\", \"만약...하면 어떻게 될까\"를 질문한다",
+        "ja": "積極的に「なぜ」「もし...ならどうなるか」を質問する",
+        "en": "Actively ask \"why\" and \"what if\""
+      },
+      "id": "sparkly-72",
+      "baguaType": "kan",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "成长思维",
+        "tw": "成長思維",
+        "ko": "성장 사고",
+        "ja": "成長思考",
+        "en": "Growth Mindset"
+      },
+      "subtitle": {
+        "cn": "遇到难的事，别想\"我不行\"，想\"我能学到啥\"",
+        "tw": "遇到難的事，別想「我不行」，想「我能學到啥」",
+        "ko": "어려운 일을 만나면 \"나는 안 돼\"라고 생각하지 말고 \"내가 무엇을 배울 수 있을까\"라고 생각하라",
+        "ja": "難しいことに出会ったら「私には無理」ではなく「何を学べるか」を考える",
+        "en": "When facing difficulties, don't think \"I can't\", think \"what can I learn\""
+      },
+      "id": "sparkly-73",
+      "baguaType": "kan",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "关联思维",
+        "tw": "關聯思維",
+        "ko": "연관 사고",
+        "ja": "関連思考",
+        "en": "Associative Thinking"
+      },
+      "subtitle": {
+        "cn": "这件事和那件事有啥关系？多找找联系",
+        "tw": "這件事和那件事有啥關係？多找找聯繫",
+        "ko": "이 일과 그 일은 무슨 관계가 있는가? 연관성을 많이 찾아보라",
+        "ja": "このこととあのことはどんな関係があるか？関連性を多く見つける",
+        "en": "What's the relationship between this and that? Find more connections"
+      },
+      "id": "sparkly-74",
+      "baguaType": "kan",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "分散思维",
+        "tw": "分散思維",
+        "ko": "분산 사고",
+        "ja": "分散思考",
+        "en": "Diversification"
+      },
+      "subtitle": {
+        "cn": "钱分投多处，降低单一风险",
+        "tw": "錢分投多處，降低單一風險",
+        "ko": "돈을 여러 곳에 나누어 투자하여 단일 위험을 낮춘다",
+        "ja": "お金を複数箇所に分散投資し、単一リスクを下げる",
+        "en": "Spread money across multiple places to reduce single risk"
+      },
+      "id": "sparkly-75",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "刚需思维",
+        "tw": "剛需思維",
+        "ko": "필수 수요 사고",
+        "ja": "必須需要思考",
+        "en": "Essential Need Thinking"
+      },
+      "subtitle": {
+        "cn": "投人们必需的领域，需求稳",
+        "tw": "投人們必需的領域，需求穩",
+        "ko": "사람들이 반드시 필요한 분야에 투자하면 수요가 안정적이다",
+        "ja": "人々が必ず必要とする分野に投資すれば、需要は安定",
+        "en": "Invest in essential fields; demand is stable"
+      },
+      "id": "sparkly-76",
+      "baguaType": "qian",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "止损思维",
+        "tw": "止損思維",
+        "ko": "손절 사고",
+        "ja": "損切り思考",
+        "en": "Stop Loss Thinking"
+      },
+      "subtitle": {
+        "cn": "亏到预设线就撤，保住本金",
+        "tw": "虧到預設線就撤，保住本金",
+        "ko": "설정한 선까지 손실이 나면 철수하여 원금을 보존한다",
+        "ja": "設定した線まで損失が出たら撤退し、元本を保護する",
+        "en": "Withdraw when loss reaches preset line to preserve principal"
+      },
+      "id": "sparkly-77",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "杠杆警惕",
+        "tw": "槓桿警惕",
+        "ko": "레버리지 경계",
+        "ja": "レバレッジ警戒",
+        "en": "Leverage Caution"
+      },
+      "subtitle": {
+        "cn": "少借钱投资，避免亏光",
+        "tw": "少借錢投資，避免虧光",
+        "ko": "돈을 적게 빌려 투자하여 전액 손실을 피한다",
+        "ja": "お金を少なく借りて投資し、全額損失を避ける",
+        "en": "Borrow less for investment to avoid total loss"
+      },
+      "id": "sparkly-78",
+      "baguaType": "gen",
+      "realm": "earth"
+    },
+    {
+      "title": {
+        "cn": "IP思维",
+        "tw": "IP思維",
+        "ko": "IP 사고",
+        "ja": "IP思考",
+        "en": "IP Thinking"
+      },
+      "subtitle": {
+        "cn": "把一个事物打造成眼熟能赚钱的\"招牌\"",
+        "tw": "把一個事物打造成眼熟能賺錢的「招牌」",
+        "ko": "한 사물을 눈에 익고 돈을 벌 수 있는 \"간판\"으로 만든다",
+        "ja": "一つの物事を目に馴染みお金を稼げる「看板」にする",
+        "en": "Turn something into a familiar money-making \"brand\""
+      },
+      "id": "sparkly-79",
+      "baguaType": "dui",
+      "realm": "human"
+    },
+    {
+      "title": {
+        "cn": "趋势思维",
+        "tw": "趨勢思維",
+        "ko": "추세 사고",
+        "ja": "トレンド思考",
+        "en": "Trend Thinking"
+      },
+      "subtitle": {
+        "cn": "跟着大方向（如行业风口）走，顺势赚钱更省力",
+        "tw": "跟著大方向（如行業風口）走，順勢賺錢更省力",
+        "ko": "큰 방향(예: 업계 트렌드)을 따라가면 추세에 따라 돈을 버는 것이 더 수월하다",
+        "ja": "大きな方向（例：業界のトレンド）に従えば、トレンドに沿ってお金を稼ぐ方が省力",
+        "en": "Follow big direction (like industry trends); making money with trend saves effort"
+      },
+      "id": "sparkly-80",
+      "baguaType": "qian",
+      "realm": "human"
+    }
+  ]
 }
